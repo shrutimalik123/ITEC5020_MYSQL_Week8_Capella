@@ -1,0 +1,1004 @@
+PatientID,AdmissionID,PrimaryDiagnosisCode,PrimaryDiagnosisDescription
+P000001,100000,I10,Essential (primary) hypertension
+P000001,100001,J45.909,"Unspecified asthma, uncomplicated"
+P000002,100002,E78.5,"Hyperlipidemia, unspecified"
+P000002,100003,N39.0,"Urinary tract infection, site not specified"
+P000002,100004,E11.9,Type 2 diabetes mellitus without complications
+P000003,100005,K21.9,Gastro-esophageal reflux disease without esophagitis
+P000004,100006,E11.9,Type 2 diabetes mellitus without complications
+P000004,100007,I10,Essential (primary) hypertension
+P000005,100008,N39.0,"Urinary tract infection, site not specified"
+P000006,100009,E11.9,Type 2 diabetes mellitus without complications
+P000006,100010,E11.9,Type 2 diabetes mellitus without complications
+P000007,100011,I10,Essential (primary) hypertension
+P000007,100012,K21.9,Gastro-esophageal reflux disease without esophagitis
+P000007,100013,K21.9,Gastro-esophageal reflux disease without esophagitis
+P000008,100014,I10,Essential (primary) hypertension
+P000008,100015,K21.9,Gastro-esophageal reflux disease without esophagitis
+P000008,100016,E11.9,Type 2 diabetes mellitus without complications
+P000009,100017,M54.5,Low back pain
+P000009,100018,J45.909,"Unspecified asthma, uncomplicated"
+P000010,100019,K21.9,Gastro-esophageal reflux disease without esophagitis
+P000011,100020,E11.9,Type 2 diabetes mellitus without complications
+P000011,100021,F41.9,"Anxiety disorder, unspecified"
+P000011,100022,M54.5,Low back pain
+P000012,100023,N39.0,"Urinary tract infection, site not specified"
+P000013,100024,N39.0,"Urinary tract infection, site not specified"
+P000014,100025,F41.9,"Anxiety disorder, unspecified"
+P000014,100026,R07.9,"Chest pain, unspecified"
+P000015,100027,K21.9,Gastro-esophageal reflux disease without esophagitis
+P000015,100028,N39.0,"Urinary tract infection, site not specified"
+P000016,100029,R07.9,"Chest pain, unspecified"
+P000016,100030,J18.9,"Pneumonia, unspecified organism"
+P000017,100031,K21.9,Gastro-esophageal reflux disease without esophagitis
+P000018,100032,E11.9,Type 2 diabetes mellitus without complications
+P000018,100033,N39.0,"Urinary tract infection, site not specified"
+P000019,100034,E11.9,Type 2 diabetes mellitus without complications
+P000019,100035,E11.9,Type 2 diabetes mellitus without complications
+P000020,100036,R07.9,"Chest pain, unspecified"
+P000021,100037,F41.9,"Anxiety disorder, unspecified"
+P000021,100038,E11.9,Type 2 diabetes mellitus without complications
+P000022,100039,F41.9,"Anxiety disorder, unspecified"
+P000023,100040,E11.9,Type 2 diabetes mellitus without complications
+P000024,100041,E78.5,"Hyperlipidemia, unspecified"
+P000024,100042,F41.9,"Anxiety disorder, unspecified"
+P000025,100043,M54.5,Low back pain
+P000026,100044,E78.5,"Hyperlipidemia, unspecified"
+P000026,100045,E11.9,Type 2 diabetes mellitus without complications
+P000027,100046,N39.0,"Urinary tract infection, site not specified"
+P000027,100047,J45.909,"Unspecified asthma, uncomplicated"
+P000027,100048,M54.5,Low back pain
+P000028,100049,I10,Essential (primary) hypertension
+P000028,100050,E78.5,"Hyperlipidemia, unspecified"
+P000028,100051,J45.909,"Unspecified asthma, uncomplicated"
+P000029,100052,J18.9,"Pneumonia, unspecified organism"
+P000029,100053,I10,Essential (primary) hypertension
+P000029,100054,E11.9,Type 2 diabetes mellitus without complications
+P000030,100055,M54.5,Low back pain
+P000030,100056,J18.9,"Pneumonia, unspecified organism"
+P000030,100057,M54.5,Low back pain
+P000031,100058,I10,Essential (primary) hypertension
+P000031,100059,R07.9,"Chest pain, unspecified"
+P000031,100060,E11.9,Type 2 diabetes mellitus without complications
+P000032,100061,F41.9,"Anxiety disorder, unspecified"
+P000033,100062,J18.9,"Pneumonia, unspecified organism"
+P000034,100063,J18.9,"Pneumonia, unspecified organism"
+P000034,100064,K21.9,Gastro-esophageal reflux disease without esophagitis
+P000034,100065,R07.9,"Chest pain, unspecified"
+P000035,100066,I10,Essential (primary) hypertension
+P000035,100067,F41.9,"Anxiety disorder, unspecified"
+P000035,100068,I10,Essential (primary) hypertension
+P000036,100069,E78.5,"Hyperlipidemia, unspecified"
+P000036,100070,M54.5,Low back pain
+P000036,100071,K21.9,Gastro-esophageal reflux disease without esophagitis
+P000037,100072,F41.9,"Anxiety disorder, unspecified"
+P000037,100073,J18.9,"Pneumonia, unspecified organism"
+P000038,100074,R07.9,"Chest pain, unspecified"
+P000038,100075,E78.5,"Hyperlipidemia, unspecified"
+P000039,100076,I10,Essential (primary) hypertension
+P000040,100077,M54.5,Low back pain
+P000040,100078,J45.909,"Unspecified asthma, uncomplicated"
+P000040,100079,E11.9,Type 2 diabetes mellitus without complications
+P000041,100080,R07.9,"Chest pain, unspecified"
+P000042,100081,E11.9,Type 2 diabetes mellitus without complications
+P000043,100082,J18.9,"Pneumonia, unspecified organism"
+P000043,100083,R07.9,"Chest pain, unspecified"
+P000043,100084,R07.9,"Chest pain, unspecified"
+P000044,100085,F41.9,"Anxiety disorder, unspecified"
+P000044,100086,J18.9,"Pneumonia, unspecified organism"
+P000044,100087,M54.5,Low back pain
+P000045,100088,E78.5,"Hyperlipidemia, unspecified"
+P000046,100089,R07.9,"Chest pain, unspecified"
+P000046,100090,J45.909,"Unspecified asthma, uncomplicated"
+P000047,100091,J18.9,"Pneumonia, unspecified organism"
+P000047,100092,N39.0,"Urinary tract infection, site not specified"
+P000047,100093,F41.9,"Anxiety disorder, unspecified"
+P000048,100094,M54.5,Low back pain
+P000048,100095,M54.5,Low back pain
+P000049,100096,M54.5,Low back pain
+P000049,100097,J18.9,"Pneumonia, unspecified organism"
+P000049,100098,K21.9,Gastro-esophageal reflux disease without esophagitis
+P000050,100099,R07.9,"Chest pain, unspecified"
+P000051,100100,K21.9,Gastro-esophageal reflux disease without esophagitis
+P000051,100101,K21.9,Gastro-esophageal reflux disease without esophagitis
+P000051,100102,J45.909,"Unspecified asthma, uncomplicated"
+P000052,100103,F41.9,"Anxiety disorder, unspecified"
+P000052,100104,E78.5,"Hyperlipidemia, unspecified"
+P000053,100105,K21.9,Gastro-esophageal reflux disease without esophagitis
+P000054,100106,R07.9,"Chest pain, unspecified"
+P000055,100107,E78.5,"Hyperlipidemia, unspecified"
+P000056,100108,F41.9,"Anxiety disorder, unspecified"
+P000056,100109,J45.909,"Unspecified asthma, uncomplicated"
+P000057,100110,N39.0,"Urinary tract infection, site not specified"
+P000057,100111,F41.9,"Anxiety disorder, unspecified"
+P000058,100112,K21.9,Gastro-esophageal reflux disease without esophagitis
+P000059,100113,J45.909,"Unspecified asthma, uncomplicated"
+P000059,100114,J18.9,"Pneumonia, unspecified organism"
+P000060,100115,M54.5,Low back pain
+P000060,100116,E78.5,"Hyperlipidemia, unspecified"
+P000061,100117,J18.9,"Pneumonia, unspecified organism"
+P000062,100118,J45.909,"Unspecified asthma, uncomplicated"
+P000062,100119,E11.9,Type 2 diabetes mellitus without complications
+P000063,100120,K21.9,Gastro-esophageal reflux disease without esophagitis
+P000064,100121,E78.5,"Hyperlipidemia, unspecified"
+P000064,100122,J18.9,"Pneumonia, unspecified organism"
+P000065,100123,R07.9,"Chest pain, unspecified"
+P000065,100124,N39.0,"Urinary tract infection, site not specified"
+P000066,100125,E11.9,Type 2 diabetes mellitus without complications
+P000067,100126,I10,Essential (primary) hypertension
+P000067,100127,N39.0,"Urinary tract infection, site not specified"
+P000068,100128,J45.909,"Unspecified asthma, uncomplicated"
+P000068,100129,N39.0,"Urinary tract infection, site not specified"
+P000068,100130,N39.0,"Urinary tract infection, site not specified"
+P000069,100131,J18.9,"Pneumonia, unspecified organism"
+P000069,100132,J45.909,"Unspecified asthma, uncomplicated"
+P000069,100133,E78.5,"Hyperlipidemia, unspecified"
+P000070,100134,J45.909,"Unspecified asthma, uncomplicated"
+P000070,100135,E78.5,"Hyperlipidemia, unspecified"
+P000070,100136,I10,Essential (primary) hypertension
+P000071,100137,K21.9,Gastro-esophageal reflux disease without esophagitis
+P000071,100138,M54.5,Low back pain
+P000071,100139,I10,Essential (primary) hypertension
+P000072,100140,M54.5,Low back pain
+P000073,100141,K21.9,Gastro-esophageal reflux disease without esophagitis
+P000073,100142,I10,Essential (primary) hypertension
+P000073,100143,J18.9,"Pneumonia, unspecified organism"
+P000074,100144,N39.0,"Urinary tract infection, site not specified"
+P000074,100145,F41.9,"Anxiety disorder, unspecified"
+P000075,100146,N39.0,"Urinary tract infection, site not specified"
+P000076,100147,M54.5,Low back pain
+P000077,100148,R07.9,"Chest pain, unspecified"
+P000077,100149,J45.909,"Unspecified asthma, uncomplicated"
+P000077,100150,E78.5,"Hyperlipidemia, unspecified"
+P000078,100151,J18.9,"Pneumonia, unspecified organism"
+P000078,100152,R07.9,"Chest pain, unspecified"
+P000079,100153,I10,Essential (primary) hypertension
+P000079,100154,K21.9,Gastro-esophageal reflux disease without esophagitis
+P000080,100155,K21.9,Gastro-esophageal reflux disease without esophagitis
+P000080,100156,R07.9,"Chest pain, unspecified"
+P000080,100157,M54.5,Low back pain
+P000081,100158,R07.9,"Chest pain, unspecified"
+P000081,100159,F41.9,"Anxiety disorder, unspecified"
+P000082,100160,R07.9,"Chest pain, unspecified"
+P000082,100161,F41.9,"Anxiety disorder, unspecified"
+P000082,100162,E11.9,Type 2 diabetes mellitus without complications
+P000083,100163,N39.0,"Urinary tract infection, site not specified"
+P000083,100164,M54.5,Low back pain
+P000083,100165,F41.9,"Anxiety disorder, unspecified"
+P000084,100166,I10,Essential (primary) hypertension
+P000084,100167,N39.0,"Urinary tract infection, site not specified"
+P000085,100168,M54.5,Low back pain
+P000086,100169,I10,Essential (primary) hypertension
+P000086,100170,F41.9,"Anxiety disorder, unspecified"
+P000086,100171,I10,Essential (primary) hypertension
+P000087,100172,E78.5,"Hyperlipidemia, unspecified"
+P000087,100173,F41.9,"Anxiety disorder, unspecified"
+P000088,100174,J18.9,"Pneumonia, unspecified organism"
+P000089,100175,K21.9,Gastro-esophageal reflux disease without esophagitis
+P000089,100176,J18.9,"Pneumonia, unspecified organism"
+P000089,100177,I10,Essential (primary) hypertension
+P000090,100178,J45.909,"Unspecified asthma, uncomplicated"
+P000091,100179,N39.0,"Urinary tract infection, site not specified"
+P000091,100180,K21.9,Gastro-esophageal reflux disease without esophagitis
+P000091,100181,M54.5,Low back pain
+P000092,100182,E11.9,Type 2 diabetes mellitus without complications
+P000092,100183,R07.9,"Chest pain, unspecified"
+P000092,100184,J45.909,"Unspecified asthma, uncomplicated"
+P000093,100185,N39.0,"Urinary tract infection, site not specified"
+P000093,100186,M54.5,Low back pain
+P000093,100187,E78.5,"Hyperlipidemia, unspecified"
+P000094,100188,E78.5,"Hyperlipidemia, unspecified"
+P000094,100189,I10,Essential (primary) hypertension
+P000095,100190,R07.9,"Chest pain, unspecified"
+P000096,100191,R07.9,"Chest pain, unspecified"
+P000097,100192,E11.9,Type 2 diabetes mellitus without complications
+P000097,100193,J45.909,"Unspecified asthma, uncomplicated"
+P000098,100194,F41.9,"Anxiety disorder, unspecified"
+P000099,100195,E78.5,"Hyperlipidemia, unspecified"
+P000099,100196,M54.5,Low back pain
+P000100,100197,I10,Essential (primary) hypertension
+P000101,100198,R07.9,"Chest pain, unspecified"
+P000102,100199,E11.9,Type 2 diabetes mellitus without complications
+P000102,100200,N39.0,"Urinary tract infection, site not specified"
+P000102,100201,E11.9,Type 2 diabetes mellitus without complications
+P000103,100202,N39.0,"Urinary tract infection, site not specified"
+P000103,100203,N39.0,"Urinary tract infection, site not specified"
+P000103,100204,M54.5,Low back pain
+P000104,100205,E11.9,Type 2 diabetes mellitus without complications
+P000105,100206,E11.9,Type 2 diabetes mellitus without complications
+P000106,100207,K21.9,Gastro-esophageal reflux disease without esophagitis
+P000107,100208,N39.0,"Urinary tract infection, site not specified"
+P000107,100209,N39.0,"Urinary tract infection, site not specified"
+P000108,100210,E78.5,"Hyperlipidemia, unspecified"
+P000109,100211,F41.9,"Anxiety disorder, unspecified"
+P000109,100212,J45.909,"Unspecified asthma, uncomplicated"
+P000110,100213,N39.0,"Urinary tract infection, site not specified"
+P000110,100214,E11.9,Type 2 diabetes mellitus without complications
+P000110,100215,F41.9,"Anxiety disorder, unspecified"
+P000111,100216,I10,Essential (primary) hypertension
+P000111,100217,J18.9,"Pneumonia, unspecified organism"
+P000112,100218,E78.5,"Hyperlipidemia, unspecified"
+P000113,100219,J18.9,"Pneumonia, unspecified organism"
+P000113,100220,K21.9,Gastro-esophageal reflux disease without esophagitis
+P000114,100221,M54.5,Low back pain
+P000114,100222,J18.9,"Pneumonia, unspecified organism"
+P000115,100223,J18.9,"Pneumonia, unspecified organism"
+P000115,100224,I10,Essential (primary) hypertension
+P000116,100225,N39.0,"Urinary tract infection, site not specified"
+P000116,100226,J45.909,"Unspecified asthma, uncomplicated"
+P000117,100227,E11.9,Type 2 diabetes mellitus without complications
+P000117,100228,E78.5,"Hyperlipidemia, unspecified"
+P000118,100229,E11.9,Type 2 diabetes mellitus without complications
+P000118,100230,E78.5,"Hyperlipidemia, unspecified"
+P000118,100231,E78.5,"Hyperlipidemia, unspecified"
+P000119,100232,R07.9,"Chest pain, unspecified"
+P000119,100233,E11.9,Type 2 diabetes mellitus without complications
+P000119,100234,N39.0,"Urinary tract infection, site not specified"
+P000120,100235,F41.9,"Anxiety disorder, unspecified"
+P000120,100236,E11.9,Type 2 diabetes mellitus without complications
+P000121,100237,J45.909,"Unspecified asthma, uncomplicated"
+P000121,100238,R07.9,"Chest pain, unspecified"
+P000122,100239,E11.9,Type 2 diabetes mellitus without complications
+P000122,100240,F41.9,"Anxiety disorder, unspecified"
+P000122,100241,R07.9,"Chest pain, unspecified"
+P000123,100242,N39.0,"Urinary tract infection, site not specified"
+P000123,100243,K21.9,Gastro-esophageal reflux disease without esophagitis
+P000124,100244,K21.9,Gastro-esophageal reflux disease without esophagitis
+P000124,100245,R07.9,"Chest pain, unspecified"
+P000124,100246,E78.5,"Hyperlipidemia, unspecified"
+P000125,100247,R07.9,"Chest pain, unspecified"
+P000125,100248,K21.9,Gastro-esophageal reflux disease without esophagitis
+P000125,100249,J45.909,"Unspecified asthma, uncomplicated"
+P000126,100250,E11.9,Type 2 diabetes mellitus without complications
+P000126,100251,E78.5,"Hyperlipidemia, unspecified"
+P000126,100252,N39.0,"Urinary tract infection, site not specified"
+P000127,100253,M54.5,Low back pain
+P000127,100254,E11.9,Type 2 diabetes mellitus without complications
+P000127,100255,I10,Essential (primary) hypertension
+P000128,100256,M54.5,Low back pain
+P000129,100257,M54.5,Low back pain
+P000130,100258,R07.9,"Chest pain, unspecified"
+P000131,100259,J18.9,"Pneumonia, unspecified organism"
+P000132,100260,N39.0,"Urinary tract infection, site not specified"
+P000132,100261,M54.5,Low back pain
+P000133,100262,E78.5,"Hyperlipidemia, unspecified"
+P000133,100263,M54.5,Low back pain
+P000134,100264,I10,Essential (primary) hypertension
+P000135,100265,J18.9,"Pneumonia, unspecified organism"
+P000136,100266,F41.9,"Anxiety disorder, unspecified"
+P000137,100267,K21.9,Gastro-esophageal reflux disease without esophagitis
+P000138,100268,F41.9,"Anxiety disorder, unspecified"
+P000138,100269,J18.9,"Pneumonia, unspecified organism"
+P000138,100270,E78.5,"Hyperlipidemia, unspecified"
+P000139,100271,R07.9,"Chest pain, unspecified"
+P000139,100272,J45.909,"Unspecified asthma, uncomplicated"
+P000140,100273,F41.9,"Anxiety disorder, unspecified"
+P000141,100274,N39.0,"Urinary tract infection, site not specified"
+P000142,100275,N39.0,"Urinary tract infection, site not specified"
+P000142,100276,F41.9,"Anxiety disorder, unspecified"
+P000143,100277,K21.9,Gastro-esophageal reflux disease without esophagitis
+P000143,100278,F41.9,"Anxiety disorder, unspecified"
+P000144,100279,F41.9,"Anxiety disorder, unspecified"
+P000144,100280,M54.5,Low back pain
+P000144,100281,E78.5,"Hyperlipidemia, unspecified"
+P000145,100282,E11.9,Type 2 diabetes mellitus without complications
+P000146,100283,I10,Essential (primary) hypertension
+P000147,100284,K21.9,Gastro-esophageal reflux disease without esophagitis
+P000148,100285,I10,Essential (primary) hypertension
+P000148,100286,R07.9,"Chest pain, unspecified"
+P000149,100287,K21.9,Gastro-esophageal reflux disease without esophagitis
+P000149,100288,J45.909,"Unspecified asthma, uncomplicated"
+P000149,100289,J45.909,"Unspecified asthma, uncomplicated"
+P000150,100290,I10,Essential (primary) hypertension
+P000151,100291,J18.9,"Pneumonia, unspecified organism"
+P000151,100292,M54.5,Low back pain
+P000152,100293,E11.9,Type 2 diabetes mellitus without complications
+P000152,100294,R07.9,"Chest pain, unspecified"
+P000152,100295,K21.9,Gastro-esophageal reflux disease without esophagitis
+P000153,100296,R07.9,"Chest pain, unspecified"
+P000153,100297,J18.9,"Pneumonia, unspecified organism"
+P000153,100298,M54.5,Low back pain
+P000154,100299,N39.0,"Urinary tract infection, site not specified"
+P000154,100300,J18.9,"Pneumonia, unspecified organism"
+P000155,100301,J45.909,"Unspecified asthma, uncomplicated"
+P000155,100302,I10,Essential (primary) hypertension
+P000156,100303,I10,Essential (primary) hypertension
+P000156,100304,E11.9,Type 2 diabetes mellitus without complications
+P000156,100305,R07.9,"Chest pain, unspecified"
+P000157,100306,I10,Essential (primary) hypertension
+P000157,100307,K21.9,Gastro-esophageal reflux disease without esophagitis
+P000158,100308,E11.9,Type 2 diabetes mellitus without complications
+P000159,100309,F41.9,"Anxiety disorder, unspecified"
+P000159,100310,I10,Essential (primary) hypertension
+P000159,100311,K21.9,Gastro-esophageal reflux disease without esophagitis
+P000160,100312,E11.9,Type 2 diabetes mellitus without complications
+P000160,100313,J18.9,"Pneumonia, unspecified organism"
+P000160,100314,E78.5,"Hyperlipidemia, unspecified"
+P000161,100315,F41.9,"Anxiety disorder, unspecified"
+P000162,100316,M54.5,Low back pain
+P000163,100317,J18.9,"Pneumonia, unspecified organism"
+P000163,100318,E11.9,Type 2 diabetes mellitus without complications
+P000164,100319,I10,Essential (primary) hypertension
+P000164,100320,J18.9,"Pneumonia, unspecified organism"
+P000165,100321,N39.0,"Urinary tract infection, site not specified"
+P000166,100322,F41.9,"Anxiety disorder, unspecified"
+P000166,100323,J45.909,"Unspecified asthma, uncomplicated"
+P000167,100324,E78.5,"Hyperlipidemia, unspecified"
+P000167,100325,N39.0,"Urinary tract infection, site not specified"
+P000168,100326,M54.5,Low back pain
+P000168,100327,R07.9,"Chest pain, unspecified"
+P000169,100328,K21.9,Gastro-esophageal reflux disease without esophagitis
+P000169,100329,K21.9,Gastro-esophageal reflux disease without esophagitis
+P000169,100330,F41.9,"Anxiety disorder, unspecified"
+P000170,100331,E11.9,Type 2 diabetes mellitus without complications
+P000170,100332,R07.9,"Chest pain, unspecified"
+P000171,100333,E78.5,"Hyperlipidemia, unspecified"
+P000171,100334,F41.9,"Anxiety disorder, unspecified"
+P000171,100335,N39.0,"Urinary tract infection, site not specified"
+P000172,100336,J18.9,"Pneumonia, unspecified organism"
+P000172,100337,J45.909,"Unspecified asthma, uncomplicated"
+P000172,100338,E11.9,Type 2 diabetes mellitus without complications
+P000173,100339,E11.9,Type 2 diabetes mellitus without complications
+P000174,100340,R07.9,"Chest pain, unspecified"
+P000175,100341,N39.0,"Urinary tract infection, site not specified"
+P000176,100342,K21.9,Gastro-esophageal reflux disease without esophagitis
+P000176,100343,K21.9,Gastro-esophageal reflux disease without esophagitis
+P000176,100344,N39.0,"Urinary tract infection, site not specified"
+P000177,100345,J18.9,"Pneumonia, unspecified organism"
+P000177,100346,K21.9,Gastro-esophageal reflux disease without esophagitis
+P000178,100347,J18.9,"Pneumonia, unspecified organism"
+P000179,100348,R07.9,"Chest pain, unspecified"
+P000179,100349,F41.9,"Anxiety disorder, unspecified"
+P000180,100350,K21.9,Gastro-esophageal reflux disease without esophagitis
+P000181,100351,E11.9,Type 2 diabetes mellitus without complications
+P000181,100352,J45.909,"Unspecified asthma, uncomplicated"
+P000182,100353,J18.9,"Pneumonia, unspecified organism"
+P000182,100354,I10,Essential (primary) hypertension
+P000182,100355,K21.9,Gastro-esophageal reflux disease without esophagitis
+P000183,100356,E11.9,Type 2 diabetes mellitus without complications
+P000183,100357,M54.5,Low back pain
+P000183,100358,F41.9,"Anxiety disorder, unspecified"
+P000184,100359,J18.9,"Pneumonia, unspecified organism"
+P000184,100360,R07.9,"Chest pain, unspecified"
+P000184,100361,E11.9,Type 2 diabetes mellitus without complications
+P000185,100362,J45.909,"Unspecified asthma, uncomplicated"
+P000186,100363,N39.0,"Urinary tract infection, site not specified"
+P000186,100364,R07.9,"Chest pain, unspecified"
+P000187,100365,M54.5,Low back pain
+P000187,100366,K21.9,Gastro-esophageal reflux disease without esophagitis
+P000188,100367,J18.9,"Pneumonia, unspecified organism"
+P000188,100368,N39.0,"Urinary tract infection, site not specified"
+P000189,100369,J45.909,"Unspecified asthma, uncomplicated"
+P000190,100370,R07.9,"Chest pain, unspecified"
+P000190,100371,I10,Essential (primary) hypertension
+P000190,100372,R07.9,"Chest pain, unspecified"
+P000191,100373,J45.909,"Unspecified asthma, uncomplicated"
+P000192,100374,K21.9,Gastro-esophageal reflux disease without esophagitis
+P000192,100375,J18.9,"Pneumonia, unspecified organism"
+P000192,100376,E11.9,Type 2 diabetes mellitus without complications
+P000193,100377,E11.9,Type 2 diabetes mellitus without complications
+P000193,100378,J18.9,"Pneumonia, unspecified organism"
+P000194,100379,J45.909,"Unspecified asthma, uncomplicated"
+P000195,100380,F41.9,"Anxiety disorder, unspecified"
+P000196,100381,J18.9,"Pneumonia, unspecified organism"
+P000196,100382,N39.0,"Urinary tract infection, site not specified"
+P000196,100383,M54.5,Low back pain
+P000197,100384,R07.9,"Chest pain, unspecified"
+P000197,100385,J18.9,"Pneumonia, unspecified organism"
+P000198,100386,M54.5,Low back pain
+P000198,100387,M54.5,Low back pain
+P000199,100388,F41.9,"Anxiety disorder, unspecified"
+P000199,100389,E11.9,Type 2 diabetes mellitus without complications
+P000199,100390,E11.9,Type 2 diabetes mellitus without complications
+P000200,100391,N39.0,"Urinary tract infection, site not specified"
+P000201,100392,I10,Essential (primary) hypertension
+P000201,100393,F41.9,"Anxiety disorder, unspecified"
+P000202,100394,J18.9,"Pneumonia, unspecified organism"
+P000203,100395,E11.9,Type 2 diabetes mellitus without complications
+P000203,100396,E78.5,"Hyperlipidemia, unspecified"
+P000204,100397,J18.9,"Pneumonia, unspecified organism"
+P000204,100398,J18.9,"Pneumonia, unspecified organism"
+P000205,100399,J45.909,"Unspecified asthma, uncomplicated"
+P000205,100400,J45.909,"Unspecified asthma, uncomplicated"
+P000206,100401,F41.9,"Anxiety disorder, unspecified"
+P000207,100402,I10,Essential (primary) hypertension
+P000207,100403,E11.9,Type 2 diabetes mellitus without complications
+P000207,100404,N39.0,"Urinary tract infection, site not specified"
+P000208,100405,E11.9,Type 2 diabetes mellitus without complications
+P000209,100406,J45.909,"Unspecified asthma, uncomplicated"
+P000209,100407,E11.9,Type 2 diabetes mellitus without complications
+P000209,100408,E78.5,"Hyperlipidemia, unspecified"
+P000210,100409,J18.9,"Pneumonia, unspecified organism"
+P000211,100410,J18.9,"Pneumonia, unspecified organism"
+P000211,100411,J18.9,"Pneumonia, unspecified organism"
+P000211,100412,I10,Essential (primary) hypertension
+P000212,100413,R07.9,"Chest pain, unspecified"
+P000212,100414,F41.9,"Anxiety disorder, unspecified"
+P000212,100415,E11.9,Type 2 diabetes mellitus without complications
+P000213,100416,R07.9,"Chest pain, unspecified"
+P000214,100417,J18.9,"Pneumonia, unspecified organism"
+P000214,100418,J18.9,"Pneumonia, unspecified organism"
+P000215,100419,J18.9,"Pneumonia, unspecified organism"
+P000215,100420,M54.5,Low back pain
+P000216,100421,F41.9,"Anxiety disorder, unspecified"
+P000217,100422,N39.0,"Urinary tract infection, site not specified"
+P000217,100423,J18.9,"Pneumonia, unspecified organism"
+P000218,100424,I10,Essential (primary) hypertension
+P000218,100425,J18.9,"Pneumonia, unspecified organism"
+P000218,100426,R07.9,"Chest pain, unspecified"
+P000219,100427,R07.9,"Chest pain, unspecified"
+P000219,100428,F41.9,"Anxiety disorder, unspecified"
+P000219,100429,E11.9,Type 2 diabetes mellitus without complications
+P000220,100430,E11.9,Type 2 diabetes mellitus without complications
+P000221,100431,E78.5,"Hyperlipidemia, unspecified"
+P000221,100432,M54.5,Low back pain
+P000221,100433,J18.9,"Pneumonia, unspecified organism"
+P000222,100434,R07.9,"Chest pain, unspecified"
+P000223,100435,N39.0,"Urinary tract infection, site not specified"
+P000223,100436,R07.9,"Chest pain, unspecified"
+P000224,100437,F41.9,"Anxiety disorder, unspecified"
+P000224,100438,N39.0,"Urinary tract infection, site not specified"
+P000225,100439,J45.909,"Unspecified asthma, uncomplicated"
+P000226,100440,F41.9,"Anxiety disorder, unspecified"
+P000226,100441,E78.5,"Hyperlipidemia, unspecified"
+P000226,100442,J18.9,"Pneumonia, unspecified organism"
+P000227,100443,I10,Essential (primary) hypertension
+P000227,100444,E11.9,Type 2 diabetes mellitus without complications
+P000227,100445,I10,Essential (primary) hypertension
+P000228,100446,M54.5,Low back pain
+P000229,100447,J18.9,"Pneumonia, unspecified organism"
+P000229,100448,I10,Essential (primary) hypertension
+P000229,100449,M54.5,Low back pain
+P000230,100450,I10,Essential (primary) hypertension
+P000231,100451,K21.9,Gastro-esophageal reflux disease without esophagitis
+P000231,100452,E11.9,Type 2 diabetes mellitus without complications
+P000232,100453,K21.9,Gastro-esophageal reflux disease without esophagitis
+P000232,100454,R07.9,"Chest pain, unspecified"
+P000232,100455,J18.9,"Pneumonia, unspecified organism"
+P000233,100456,E78.5,"Hyperlipidemia, unspecified"
+P000233,100457,I10,Essential (primary) hypertension
+P000234,100458,N39.0,"Urinary tract infection, site not specified"
+P000234,100459,R07.9,"Chest pain, unspecified"
+P000234,100460,F41.9,"Anxiety disorder, unspecified"
+P000235,100461,J45.909,"Unspecified asthma, uncomplicated"
+P000235,100462,J18.9,"Pneumonia, unspecified organism"
+P000236,100463,M54.5,Low back pain
+P000236,100464,E78.5,"Hyperlipidemia, unspecified"
+P000236,100465,R07.9,"Chest pain, unspecified"
+P000237,100466,I10,Essential (primary) hypertension
+P000237,100467,E78.5,"Hyperlipidemia, unspecified"
+P000237,100468,K21.9,Gastro-esophageal reflux disease without esophagitis
+P000238,100469,M54.5,Low back pain
+P000238,100470,J18.9,"Pneumonia, unspecified organism"
+P000238,100471,R07.9,"Chest pain, unspecified"
+P000239,100472,I10,Essential (primary) hypertension
+P000239,100473,E11.9,Type 2 diabetes mellitus without complications
+P000240,100474,R07.9,"Chest pain, unspecified"
+P000240,100475,E78.5,"Hyperlipidemia, unspecified"
+P000240,100476,I10,Essential (primary) hypertension
+P000241,100477,R07.9,"Chest pain, unspecified"
+P000242,100478,K21.9,Gastro-esophageal reflux disease without esophagitis
+P000242,100479,I10,Essential (primary) hypertension
+P000242,100480,R07.9,"Chest pain, unspecified"
+P000243,100481,N39.0,"Urinary tract infection, site not specified"
+P000243,100482,F41.9,"Anxiety disorder, unspecified"
+P000244,100483,K21.9,Gastro-esophageal reflux disease without esophagitis
+P000244,100484,M54.5,Low back pain
+P000245,100485,R07.9,"Chest pain, unspecified"
+P000245,100486,J45.909,"Unspecified asthma, uncomplicated"
+P000245,100487,E11.9,Type 2 diabetes mellitus without complications
+P000246,100488,I10,Essential (primary) hypertension
+P000247,100489,M54.5,Low back pain
+P000248,100490,M54.5,Low back pain
+P000249,100491,E78.5,"Hyperlipidemia, unspecified"
+P000250,100492,M54.5,Low back pain
+P000250,100493,K21.9,Gastro-esophageal reflux disease without esophagitis
+P000250,100494,K21.9,Gastro-esophageal reflux disease without esophagitis
+P000251,100495,J18.9,"Pneumonia, unspecified organism"
+P000251,100496,K21.9,Gastro-esophageal reflux disease without esophagitis
+P000252,100497,K21.9,Gastro-esophageal reflux disease without esophagitis
+P000253,100498,K21.9,Gastro-esophageal reflux disease without esophagitis
+P000253,100499,K21.9,Gastro-esophageal reflux disease without esophagitis
+P000253,100500,M54.5,Low back pain
+P000254,100501,E78.5,"Hyperlipidemia, unspecified"
+P000254,100502,E11.9,Type 2 diabetes mellitus without complications
+P000254,100503,E78.5,"Hyperlipidemia, unspecified"
+P000255,100504,J45.909,"Unspecified asthma, uncomplicated"
+P000256,100505,R07.9,"Chest pain, unspecified"
+P000256,100506,J45.909,"Unspecified asthma, uncomplicated"
+P000256,100507,J18.9,"Pneumonia, unspecified organism"
+P000257,100508,M54.5,Low back pain
+P000258,100509,R07.9,"Chest pain, unspecified"
+P000258,100510,E78.5,"Hyperlipidemia, unspecified"
+P000258,100511,I10,Essential (primary) hypertension
+P000259,100512,E11.9,Type 2 diabetes mellitus without complications
+P000259,100513,J18.9,"Pneumonia, unspecified organism"
+P000260,100514,J45.909,"Unspecified asthma, uncomplicated"
+P000260,100515,N39.0,"Urinary tract infection, site not specified"
+P000261,100516,J18.9,"Pneumonia, unspecified organism"
+P000261,100517,N39.0,"Urinary tract infection, site not specified"
+P000262,100518,I10,Essential (primary) hypertension
+P000263,100519,J45.909,"Unspecified asthma, uncomplicated"
+P000263,100520,F41.9,"Anxiety disorder, unspecified"
+P000263,100521,F41.9,"Anxiety disorder, unspecified"
+P000264,100522,N39.0,"Urinary tract infection, site not specified"
+P000264,100523,N39.0,"Urinary tract infection, site not specified"
+P000264,100524,F41.9,"Anxiety disorder, unspecified"
+P000265,100525,J18.9,"Pneumonia, unspecified organism"
+P000265,100526,N39.0,"Urinary tract infection, site not specified"
+P000266,100527,J45.909,"Unspecified asthma, uncomplicated"
+P000266,100528,J18.9,"Pneumonia, unspecified organism"
+P000266,100529,I10,Essential (primary) hypertension
+P000267,100530,J18.9,"Pneumonia, unspecified organism"
+P000267,100531,E11.9,Type 2 diabetes mellitus without complications
+P000268,100532,J18.9,"Pneumonia, unspecified organism"
+P000268,100533,J45.909,"Unspecified asthma, uncomplicated"
+P000268,100534,E11.9,Type 2 diabetes mellitus without complications
+P000269,100535,J18.9,"Pneumonia, unspecified organism"
+P000269,100536,M54.5,Low back pain
+P000270,100537,J18.9,"Pneumonia, unspecified organism"
+P000270,100538,M54.5,Low back pain
+P000270,100539,K21.9,Gastro-esophageal reflux disease without esophagitis
+P000271,100540,R07.9,"Chest pain, unspecified"
+P000271,100541,K21.9,Gastro-esophageal reflux disease without esophagitis
+P000271,100542,J18.9,"Pneumonia, unspecified organism"
+P000272,100543,K21.9,Gastro-esophageal reflux disease without esophagitis
+P000273,100544,J18.9,"Pneumonia, unspecified organism"
+P000273,100545,R07.9,"Chest pain, unspecified"
+P000274,100546,J18.9,"Pneumonia, unspecified organism"
+P000275,100547,E11.9,Type 2 diabetes mellitus without complications
+P000275,100548,J45.909,"Unspecified asthma, uncomplicated"
+P000276,100549,M54.5,Low back pain
+P000276,100550,E78.5,"Hyperlipidemia, unspecified"
+P000276,100551,E78.5,"Hyperlipidemia, unspecified"
+P000277,100552,E78.5,"Hyperlipidemia, unspecified"
+P000277,100553,R07.9,"Chest pain, unspecified"
+P000278,100554,F41.9,"Anxiety disorder, unspecified"
+P000278,100555,K21.9,Gastro-esophageal reflux disease without esophagitis
+P000278,100556,E78.5,"Hyperlipidemia, unspecified"
+P000279,100557,F41.9,"Anxiety disorder, unspecified"
+P000279,100558,K21.9,Gastro-esophageal reflux disease without esophagitis
+P000280,100559,E78.5,"Hyperlipidemia, unspecified"
+P000280,100560,E11.9,Type 2 diabetes mellitus without complications
+P000280,100561,M54.5,Low back pain
+P000281,100562,M54.5,Low back pain
+P000281,100563,E11.9,Type 2 diabetes mellitus without complications
+P000281,100564,M54.5,Low back pain
+P000282,100565,E78.5,"Hyperlipidemia, unspecified"
+P000283,100566,I10,Essential (primary) hypertension
+P000283,100567,E11.9,Type 2 diabetes mellitus without complications
+P000284,100568,E78.5,"Hyperlipidemia, unspecified"
+P000284,100569,E11.9,Type 2 diabetes mellitus without complications
+P000284,100570,J18.9,"Pneumonia, unspecified organism"
+P000285,100571,M54.5,Low back pain
+P000285,100572,F41.9,"Anxiety disorder, unspecified"
+P000286,100573,I10,Essential (primary) hypertension
+P000286,100574,E11.9,Type 2 diabetes mellitus without complications
+P000287,100575,I10,Essential (primary) hypertension
+P000287,100576,F41.9,"Anxiety disorder, unspecified"
+P000287,100577,I10,Essential (primary) hypertension
+P000288,100578,E11.9,Type 2 diabetes mellitus without complications
+P000288,100579,R07.9,"Chest pain, unspecified"
+P000288,100580,J18.9,"Pneumonia, unspecified organism"
+P000289,100581,J18.9,"Pneumonia, unspecified organism"
+P000289,100582,K21.9,Gastro-esophageal reflux disease without esophagitis
+P000290,100583,E11.9,Type 2 diabetes mellitus without complications
+P000290,100584,J45.909,"Unspecified asthma, uncomplicated"
+P000290,100585,M54.5,Low back pain
+P000291,100586,I10,Essential (primary) hypertension
+P000291,100587,J18.9,"Pneumonia, unspecified organism"
+P000291,100588,J45.909,"Unspecified asthma, uncomplicated"
+P000292,100589,F41.9,"Anxiety disorder, unspecified"
+P000292,100590,E11.9,Type 2 diabetes mellitus without complications
+P000293,100591,K21.9,Gastro-esophageal reflux disease without esophagitis
+P000294,100592,F41.9,"Anxiety disorder, unspecified"
+P000294,100593,F41.9,"Anxiety disorder, unspecified"
+P000295,100594,E78.5,"Hyperlipidemia, unspecified"
+P000295,100595,E78.5,"Hyperlipidemia, unspecified"
+P000296,100596,K21.9,Gastro-esophageal reflux disease without esophagitis
+P000296,100597,K21.9,Gastro-esophageal reflux disease without esophagitis
+P000297,100598,J45.909,"Unspecified asthma, uncomplicated"
+P000297,100599,F41.9,"Anxiety disorder, unspecified"
+P000297,100600,J45.909,"Unspecified asthma, uncomplicated"
+P000298,100601,N39.0,"Urinary tract infection, site not specified"
+P000298,100602,K21.9,Gastro-esophageal reflux disease without esophagitis
+P000298,100603,E78.5,"Hyperlipidemia, unspecified"
+P000299,100604,M54.5,Low back pain
+P000300,100605,J45.909,"Unspecified asthma, uncomplicated"
+P000300,100606,N39.0,"Urinary tract infection, site not specified"
+P000301,100607,N39.0,"Urinary tract infection, site not specified"
+P000301,100608,E11.9,Type 2 diabetes mellitus without complications
+P000302,100609,J45.909,"Unspecified asthma, uncomplicated"
+P000303,100610,R07.9,"Chest pain, unspecified"
+P000303,100611,F41.9,"Anxiety disorder, unspecified"
+P000303,100612,E78.5,"Hyperlipidemia, unspecified"
+P000304,100613,R07.9,"Chest pain, unspecified"
+P000304,100614,E78.5,"Hyperlipidemia, unspecified"
+P000305,100615,F41.9,"Anxiety disorder, unspecified"
+P000306,100616,F41.9,"Anxiety disorder, unspecified"
+P000306,100617,K21.9,Gastro-esophageal reflux disease without esophagitis
+P000307,100618,N39.0,"Urinary tract infection, site not specified"
+P000308,100619,J45.909,"Unspecified asthma, uncomplicated"
+P000308,100620,F41.9,"Anxiety disorder, unspecified"
+P000309,100621,R07.9,"Chest pain, unspecified"
+P000309,100622,I10,Essential (primary) hypertension
+P000309,100623,M54.5,Low back pain
+P000310,100624,F41.9,"Anxiety disorder, unspecified"
+P000311,100625,M54.5,Low back pain
+P000311,100626,M54.5,Low back pain
+P000311,100627,E78.5,"Hyperlipidemia, unspecified"
+P000312,100628,F41.9,"Anxiety disorder, unspecified"
+P000312,100629,E78.5,"Hyperlipidemia, unspecified"
+P000312,100630,M54.5,Low back pain
+P000313,100631,M54.5,Low back pain
+P000313,100632,N39.0,"Urinary tract infection, site not specified"
+P000314,100633,I10,Essential (primary) hypertension
+P000314,100634,J18.9,"Pneumonia, unspecified organism"
+P000315,100635,I10,Essential (primary) hypertension
+P000316,100636,I10,Essential (primary) hypertension
+P000316,100637,I10,Essential (primary) hypertension
+P000317,100638,F41.9,"Anxiety disorder, unspecified"
+P000317,100639,M54.5,Low back pain
+P000318,100640,M54.5,Low back pain
+P000319,100641,E78.5,"Hyperlipidemia, unspecified"
+P000320,100642,E11.9,Type 2 diabetes mellitus without complications
+P000320,100643,J18.9,"Pneumonia, unspecified organism"
+P000320,100644,E11.9,Type 2 diabetes mellitus without complications
+P000321,100645,F41.9,"Anxiety disorder, unspecified"
+P000321,100646,F41.9,"Anxiety disorder, unspecified"
+P000322,100647,E11.9,Type 2 diabetes mellitus without complications
+P000322,100648,E78.5,"Hyperlipidemia, unspecified"
+P000322,100649,J45.909,"Unspecified asthma, uncomplicated"
+P000323,100650,K21.9,Gastro-esophageal reflux disease without esophagitis
+P000324,100651,E78.5,"Hyperlipidemia, unspecified"
+P000325,100652,M54.5,Low back pain
+P000326,100653,N39.0,"Urinary tract infection, site not specified"
+P000326,100654,E78.5,"Hyperlipidemia, unspecified"
+P000327,100655,J18.9,"Pneumonia, unspecified organism"
+P000328,100656,M54.5,Low back pain
+P000329,100657,J18.9,"Pneumonia, unspecified organism"
+P000329,100658,J18.9,"Pneumonia, unspecified organism"
+P000329,100659,M54.5,Low back pain
+P000330,100660,R07.9,"Chest pain, unspecified"
+P000330,100661,J45.909,"Unspecified asthma, uncomplicated"
+P000330,100662,N39.0,"Urinary tract infection, site not specified"
+P000331,100663,R07.9,"Chest pain, unspecified"
+P000331,100664,J18.9,"Pneumonia, unspecified organism"
+P000332,100665,N39.0,"Urinary tract infection, site not specified"
+P000332,100666,N39.0,"Urinary tract infection, site not specified"
+P000333,100667,I10,Essential (primary) hypertension
+P000333,100668,M54.5,Low back pain
+P000334,100669,F41.9,"Anxiety disorder, unspecified"
+P000334,100670,J18.9,"Pneumonia, unspecified organism"
+P000335,100671,M54.5,Low back pain
+P000335,100672,E78.5,"Hyperlipidemia, unspecified"
+P000336,100673,I10,Essential (primary) hypertension
+P000336,100674,E11.9,Type 2 diabetes mellitus without complications
+P000337,100675,J18.9,"Pneumonia, unspecified organism"
+P000338,100676,N39.0,"Urinary tract infection, site not specified"
+P000338,100677,E11.9,Type 2 diabetes mellitus without complications
+P000339,100678,E78.5,"Hyperlipidemia, unspecified"
+P000339,100679,J45.909,"Unspecified asthma, uncomplicated"
+P000340,100680,R07.9,"Chest pain, unspecified"
+P000340,100681,J18.9,"Pneumonia, unspecified organism"
+P000340,100682,N39.0,"Urinary tract infection, site not specified"
+P000341,100683,M54.5,Low back pain
+P000342,100684,J18.9,"Pneumonia, unspecified organism"
+P000342,100685,M54.5,Low back pain
+P000342,100686,E78.5,"Hyperlipidemia, unspecified"
+P000343,100687,J45.909,"Unspecified asthma, uncomplicated"
+P000343,100688,J45.909,"Unspecified asthma, uncomplicated"
+P000343,100689,J18.9,"Pneumonia, unspecified organism"
+P000344,100690,N39.0,"Urinary tract infection, site not specified"
+P000345,100691,N39.0,"Urinary tract infection, site not specified"
+P000345,100692,N39.0,"Urinary tract infection, site not specified"
+P000345,100693,E11.9,Type 2 diabetes mellitus without complications
+P000346,100694,F41.9,"Anxiety disorder, unspecified"
+P000347,100695,E11.9,Type 2 diabetes mellitus without complications
+P000347,100696,J18.9,"Pneumonia, unspecified organism"
+P000348,100697,E11.9,Type 2 diabetes mellitus without complications
+P000349,100698,J18.9,"Pneumonia, unspecified organism"
+P000349,100699,F41.9,"Anxiety disorder, unspecified"
+P000349,100700,J18.9,"Pneumonia, unspecified organism"
+P000350,100701,I10,Essential (primary) hypertension
+P000351,100702,E78.5,"Hyperlipidemia, unspecified"
+P000351,100703,K21.9,Gastro-esophageal reflux disease without esophagitis
+P000351,100704,J18.9,"Pneumonia, unspecified organism"
+P000352,100705,N39.0,"Urinary tract infection, site not specified"
+P000352,100706,E78.5,"Hyperlipidemia, unspecified"
+P000353,100707,M54.5,Low back pain
+P000353,100708,J45.909,"Unspecified asthma, uncomplicated"
+P000353,100709,N39.0,"Urinary tract infection, site not specified"
+P000354,100710,J18.9,"Pneumonia, unspecified organism"
+P000354,100711,R07.9,"Chest pain, unspecified"
+P000355,100712,N39.0,"Urinary tract infection, site not specified"
+P000355,100713,F41.9,"Anxiety disorder, unspecified"
+P000356,100714,M54.5,Low back pain
+P000357,100715,J18.9,"Pneumonia, unspecified organism"
+P000358,100716,J18.9,"Pneumonia, unspecified organism"
+P000358,100717,R07.9,"Chest pain, unspecified"
+P000359,100718,F41.9,"Anxiety disorder, unspecified"
+P000359,100719,E11.9,Type 2 diabetes mellitus without complications
+P000360,100720,M54.5,Low back pain
+P000361,100721,F41.9,"Anxiety disorder, unspecified"
+P000362,100722,E11.9,Type 2 diabetes mellitus without complications
+P000363,100723,I10,Essential (primary) hypertension
+P000363,100724,R07.9,"Chest pain, unspecified"
+P000363,100725,R07.9,"Chest pain, unspecified"
+P000364,100726,F41.9,"Anxiety disorder, unspecified"
+P000364,100727,F41.9,"Anxiety disorder, unspecified"
+P000365,100728,K21.9,Gastro-esophageal reflux disease without esophagitis
+P000366,100729,I10,Essential (primary) hypertension
+P000367,100730,E11.9,Type 2 diabetes mellitus without complications
+P000368,100731,E78.5,"Hyperlipidemia, unspecified"
+P000369,100732,F41.9,"Anxiety disorder, unspecified"
+P000369,100733,E11.9,Type 2 diabetes mellitus without complications
+P000369,100734,J45.909,"Unspecified asthma, uncomplicated"
+P000370,100735,R07.9,"Chest pain, unspecified"
+P000370,100736,K21.9,Gastro-esophageal reflux disease without esophagitis
+P000370,100737,R07.9,"Chest pain, unspecified"
+P000371,100738,N39.0,"Urinary tract infection, site not specified"
+P000372,100739,J45.909,"Unspecified asthma, uncomplicated"
+P000373,100740,J18.9,"Pneumonia, unspecified organism"
+P000373,100741,F41.9,"Anxiety disorder, unspecified"
+P000374,100742,J45.909,"Unspecified asthma, uncomplicated"
+P000374,100743,F41.9,"Anxiety disorder, unspecified"
+P000375,100744,J45.909,"Unspecified asthma, uncomplicated"
+P000375,100745,E78.5,"Hyperlipidemia, unspecified"
+P000375,100746,R07.9,"Chest pain, unspecified"
+P000376,100747,E11.9,Type 2 diabetes mellitus without complications
+P000376,100748,E78.5,"Hyperlipidemia, unspecified"
+P000377,100749,E11.9,Type 2 diabetes mellitus without complications
+P000378,100750,E11.9,Type 2 diabetes mellitus without complications
+P000378,100751,J45.909,"Unspecified asthma, uncomplicated"
+P000379,100752,J18.9,"Pneumonia, unspecified organism"
+P000379,100753,I10,Essential (primary) hypertension
+P000380,100754,K21.9,Gastro-esophageal reflux disease without esophagitis
+P000381,100755,N39.0,"Urinary tract infection, site not specified"
+P000382,100756,F41.9,"Anxiety disorder, unspecified"
+P000382,100757,M54.5,Low back pain
+P000382,100758,I10,Essential (primary) hypertension
+P000383,100759,F41.9,"Anxiety disorder, unspecified"
+P000383,100760,M54.5,Low back pain
+P000384,100761,N39.0,"Urinary tract infection, site not specified"
+P000384,100762,J45.909,"Unspecified asthma, uncomplicated"
+P000384,100763,E11.9,Type 2 diabetes mellitus without complications
+P000385,100764,J18.9,"Pneumonia, unspecified organism"
+P000386,100765,I10,Essential (primary) hypertension
+P000387,100766,J45.909,"Unspecified asthma, uncomplicated"
+P000387,100767,J18.9,"Pneumonia, unspecified organism"
+P000387,100768,M54.5,Low back pain
+P000388,100769,I10,Essential (primary) hypertension
+P000388,100770,F41.9,"Anxiety disorder, unspecified"
+P000388,100771,J18.9,"Pneumonia, unspecified organism"
+P000389,100772,N39.0,"Urinary tract infection, site not specified"
+P000389,100773,J18.9,"Pneumonia, unspecified organism"
+P000389,100774,J45.909,"Unspecified asthma, uncomplicated"
+P000390,100775,I10,Essential (primary) hypertension
+P000391,100776,N39.0,"Urinary tract infection, site not specified"
+P000392,100777,J18.9,"Pneumonia, unspecified organism"
+P000392,100778,E11.9,Type 2 diabetes mellitus without complications
+P000393,100779,K21.9,Gastro-esophageal reflux disease without esophagitis
+P000393,100780,M54.5,Low back pain
+P000394,100781,R07.9,"Chest pain, unspecified"
+P000394,100782,J18.9,"Pneumonia, unspecified organism"
+P000395,100783,J18.9,"Pneumonia, unspecified organism"
+P000395,100784,M54.5,Low back pain
+P000396,100785,N39.0,"Urinary tract infection, site not specified"
+P000397,100786,I10,Essential (primary) hypertension
+P000397,100787,F41.9,"Anxiety disorder, unspecified"
+P000397,100788,N39.0,"Urinary tract infection, site not specified"
+P000398,100789,E11.9,Type 2 diabetes mellitus without complications
+P000399,100790,E78.5,"Hyperlipidemia, unspecified"
+P000399,100791,J45.909,"Unspecified asthma, uncomplicated"
+P000400,100792,F41.9,"Anxiety disorder, unspecified"
+P000400,100793,F41.9,"Anxiety disorder, unspecified"
+P000401,100794,F41.9,"Anxiety disorder, unspecified"
+P000401,100795,J18.9,"Pneumonia, unspecified organism"
+P000402,100796,M54.5,Low back pain
+P000403,100797,E11.9,Type 2 diabetes mellitus without complications
+P000403,100798,R07.9,"Chest pain, unspecified"
+P000403,100799,E78.5,"Hyperlipidemia, unspecified"
+P000404,100800,K21.9,Gastro-esophageal reflux disease without esophagitis
+P000404,100801,N39.0,"Urinary tract infection, site not specified"
+P000404,100802,M54.5,Low back pain
+P000405,100803,J45.909,"Unspecified asthma, uncomplicated"
+P000405,100804,N39.0,"Urinary tract infection, site not specified"
+P000405,100805,E78.5,"Hyperlipidemia, unspecified"
+P000406,100806,R07.9,"Chest pain, unspecified"
+P000406,100807,N39.0,"Urinary tract infection, site not specified"
+P000406,100808,E11.9,Type 2 diabetes mellitus without complications
+P000407,100809,M54.5,Low back pain
+P000408,100810,I10,Essential (primary) hypertension
+P000409,100811,M54.5,Low back pain
+P000409,100812,K21.9,Gastro-esophageal reflux disease without esophagitis
+P000410,100813,E11.9,Type 2 diabetes mellitus without complications
+P000411,100814,K21.9,Gastro-esophageal reflux disease without esophagitis
+P000411,100815,M54.5,Low back pain
+P000412,100816,I10,Essential (primary) hypertension
+P000413,100817,F41.9,"Anxiety disorder, unspecified"
+P000413,100818,E11.9,Type 2 diabetes mellitus without complications
+P000413,100819,J18.9,"Pneumonia, unspecified organism"
+P000414,100820,E78.5,"Hyperlipidemia, unspecified"
+P000414,100821,J45.909,"Unspecified asthma, uncomplicated"
+P000415,100822,J18.9,"Pneumonia, unspecified organism"
+P000416,100823,M54.5,Low back pain
+P000416,100824,I10,Essential (primary) hypertension
+P000416,100825,N39.0,"Urinary tract infection, site not specified"
+P000417,100826,J18.9,"Pneumonia, unspecified organism"
+P000418,100827,E11.9,Type 2 diabetes mellitus without complications
+P000419,100828,R07.9,"Chest pain, unspecified"
+P000419,100829,E11.9,Type 2 diabetes mellitus without complications
+P000419,100830,M54.5,Low back pain
+P000420,100831,J45.909,"Unspecified asthma, uncomplicated"
+P000420,100832,J18.9,"Pneumonia, unspecified organism"
+P000420,100833,R07.9,"Chest pain, unspecified"
+P000421,100834,J18.9,"Pneumonia, unspecified organism"
+P000422,100835,F41.9,"Anxiety disorder, unspecified"
+P000422,100836,J45.909,"Unspecified asthma, uncomplicated"
+P000423,100837,M54.5,Low back pain
+P000423,100838,E11.9,Type 2 diabetes mellitus without complications
+P000424,100839,I10,Essential (primary) hypertension
+P000424,100840,I10,Essential (primary) hypertension
+P000424,100841,F41.9,"Anxiety disorder, unspecified"
+P000425,100842,K21.9,Gastro-esophageal reflux disease without esophagitis
+P000425,100843,J45.909,"Unspecified asthma, uncomplicated"
+P000425,100844,F41.9,"Anxiety disorder, unspecified"
+P000426,100845,E11.9,Type 2 diabetes mellitus without complications
+P000426,100846,N39.0,"Urinary tract infection, site not specified"
+P000426,100847,E11.9,Type 2 diabetes mellitus without complications
+P000427,100848,E78.5,"Hyperlipidemia, unspecified"
+P000428,100849,F41.9,"Anxiety disorder, unspecified"
+P000428,100850,E11.9,Type 2 diabetes mellitus without complications
+P000429,100851,J18.9,"Pneumonia, unspecified organism"
+P000429,100852,M54.5,Low back pain
+P000429,100853,J45.909,"Unspecified asthma, uncomplicated"
+P000430,100854,K21.9,Gastro-esophageal reflux disease without esophagitis
+P000430,100855,E78.5,"Hyperlipidemia, unspecified"
+P000431,100856,E11.9,Type 2 diabetes mellitus without complications
+P000431,100857,M54.5,Low back pain
+P000431,100858,E11.9,Type 2 diabetes mellitus without complications
+P000432,100859,R07.9,"Chest pain, unspecified"
+P000432,100860,E11.9,Type 2 diabetes mellitus without complications
+P000433,100861,J18.9,"Pneumonia, unspecified organism"
+P000433,100862,R07.9,"Chest pain, unspecified"
+P000434,100863,M54.5,Low back pain
+P000434,100864,K21.9,Gastro-esophageal reflux disease without esophagitis
+P000434,100865,J18.9,"Pneumonia, unspecified organism"
+P000435,100866,E11.9,Type 2 diabetes mellitus without complications
+P000436,100867,J18.9,"Pneumonia, unspecified organism"
+P000436,100868,K21.9,Gastro-esophageal reflux disease without esophagitis
+P000436,100869,K21.9,Gastro-esophageal reflux disease without esophagitis
+P000437,100870,E78.5,"Hyperlipidemia, unspecified"
+P000437,100871,E78.5,"Hyperlipidemia, unspecified"
+P000437,100872,E78.5,"Hyperlipidemia, unspecified"
+P000438,100873,J18.9,"Pneumonia, unspecified organism"
+P000438,100874,K21.9,Gastro-esophageal reflux disease without esophagitis
+P000438,100875,E11.9,Type 2 diabetes mellitus without complications
+P000439,100876,E78.5,"Hyperlipidemia, unspecified"
+P000439,100877,N39.0,"Urinary tract infection, site not specified"
+P000439,100878,I10,Essential (primary) hypertension
+P000440,100879,F41.9,"Anxiety disorder, unspecified"
+P000440,100880,N39.0,"Urinary tract infection, site not specified"
+P000440,100881,F41.9,"Anxiety disorder, unspecified"
+P000441,100882,I10,Essential (primary) hypertension
+P000441,100883,K21.9,Gastro-esophageal reflux disease without esophagitis
+P000441,100884,K21.9,Gastro-esophageal reflux disease without esophagitis
+P000442,100885,M54.5,Low back pain
+P000443,100886,E78.5,"Hyperlipidemia, unspecified"
+P000444,100887,J18.9,"Pneumonia, unspecified organism"
+P000444,100888,E78.5,"Hyperlipidemia, unspecified"
+P000445,100889,I10,Essential (primary) hypertension
+P000445,100890,F41.9,"Anxiety disorder, unspecified"
+P000446,100891,M54.5,Low back pain
+P000446,100892,R07.9,"Chest pain, unspecified"
+P000447,100893,E11.9,Type 2 diabetes mellitus without complications
+P000448,100894,E11.9,Type 2 diabetes mellitus without complications
+P000448,100895,J18.9,"Pneumonia, unspecified organism"
+P000449,100896,N39.0,"Urinary tract infection, site not specified"
+P000449,100897,E78.5,"Hyperlipidemia, unspecified"
+P000449,100898,I10,Essential (primary) hypertension
+P000450,100899,J45.909,"Unspecified asthma, uncomplicated"
+P000450,100900,R07.9,"Chest pain, unspecified"
+P000451,100901,R07.9,"Chest pain, unspecified"
+P000452,100902,R07.9,"Chest pain, unspecified"
+P000452,100903,M54.5,Low back pain
+P000452,100904,N39.0,"Urinary tract infection, site not specified"
+P000453,100905,N39.0,"Urinary tract infection, site not specified"
+P000453,100906,E78.5,"Hyperlipidemia, unspecified"
+P000453,100907,F41.9,"Anxiety disorder, unspecified"
+P000454,100908,I10,Essential (primary) hypertension
+P000455,100909,J18.9,"Pneumonia, unspecified organism"
+P000456,100910,E11.9,Type 2 diabetes mellitus without complications
+P000456,100911,F41.9,"Anxiety disorder, unspecified"
+P000456,100912,N39.0,"Urinary tract infection, site not specified"
+P000457,100913,I10,Essential (primary) hypertension
+P000457,100914,E78.5,"Hyperlipidemia, unspecified"
+P000457,100915,J18.9,"Pneumonia, unspecified organism"
+P000458,100916,J45.909,"Unspecified asthma, uncomplicated"
+P000458,100917,N39.0,"Urinary tract infection, site not specified"
+P000458,100918,E78.5,"Hyperlipidemia, unspecified"
+P000459,100919,J18.9,"Pneumonia, unspecified organism"
+P000460,100920,M54.5,Low back pain
+P000460,100921,J18.9,"Pneumonia, unspecified organism"
+P000460,100922,M54.5,Low back pain
+P000461,100923,I10,Essential (primary) hypertension
+P000461,100924,E11.9,Type 2 diabetes mellitus without complications
+P000461,100925,J45.909,"Unspecified asthma, uncomplicated"
+P000462,100926,N39.0,"Urinary tract infection, site not specified"
+P000462,100927,N39.0,"Urinary tract infection, site not specified"
+P000462,100928,J45.909,"Unspecified asthma, uncomplicated"
+P000463,100929,M54.5,Low back pain
+P000463,100930,J45.909,"Unspecified asthma, uncomplicated"
+P000463,100931,M54.5,Low back pain
+P000464,100932,J45.909,"Unspecified asthma, uncomplicated"
+P000464,100933,E78.5,"Hyperlipidemia, unspecified"
+P000465,100934,J18.9,"Pneumonia, unspecified organism"
+P000465,100935,J45.909,"Unspecified asthma, uncomplicated"
+P000465,100936,N39.0,"Urinary tract infection, site not specified"
+P000466,100937,M54.5,Low back pain
+P000467,100938,J45.909,"Unspecified asthma, uncomplicated"
+P000467,100939,M54.5,Low back pain
+P000468,100940,M54.5,Low back pain
+P000469,100941,N39.0,"Urinary tract infection, site not specified"
+P000469,100942,N39.0,"Urinary tract infection, site not specified"
+P000469,100943,F41.9,"Anxiety disorder, unspecified"
+P000470,100944,R07.9,"Chest pain, unspecified"
+P000470,100945,K21.9,Gastro-esophageal reflux disease without esophagitis
+P000470,100946,F41.9,"Anxiety disorder, unspecified"
+P000471,100947,I10,Essential (primary) hypertension
+P000472,100948,K21.9,Gastro-esophageal reflux disease without esophagitis
+P000473,100949,I10,Essential (primary) hypertension
+P000474,100950,N39.0,"Urinary tract infection, site not specified"
+P000475,100951,R07.9,"Chest pain, unspecified"
+P000475,100952,N39.0,"Urinary tract infection, site not specified"
+P000475,100953,M54.5,Low back pain
+P000476,100954,I10,Essential (primary) hypertension
+P000476,100955,F41.9,"Anxiety disorder, unspecified"
+P000476,100956,M54.5,Low back pain
+P000477,100957,M54.5,Low back pain
+P000477,100958,M54.5,Low back pain
+P000478,100959,R07.9,"Chest pain, unspecified"
+P000478,100960,E78.5,"Hyperlipidemia, unspecified"
+P000478,100961,E78.5,"Hyperlipidemia, unspecified"
+P000479,100962,K21.9,Gastro-esophageal reflux disease without esophagitis
+P000479,100963,R07.9,"Chest pain, unspecified"
+P000480,100964,R07.9,"Chest pain, unspecified"
+P000480,100965,K21.9,Gastro-esophageal reflux disease without esophagitis
+P000481,100966,F41.9,"Anxiety disorder, unspecified"
+P000482,100967,I10,Essential (primary) hypertension
+P000482,100968,M54.5,Low back pain
+P000482,100969,M54.5,Low back pain
+P000483,100970,M54.5,Low back pain
+P000484,100971,I10,Essential (primary) hypertension
+P000484,100972,J18.9,"Pneumonia, unspecified organism"
+P000484,100973,J18.9,"Pneumonia, unspecified organism"
+P000485,100974,N39.0,"Urinary tract infection, site not specified"
+P000485,100975,F41.9,"Anxiety disorder, unspecified"
+P000486,100976,I10,Essential (primary) hypertension
+P000487,100977,R07.9,"Chest pain, unspecified"
+P000487,100978,F41.9,"Anxiety disorder, unspecified"
+P000488,100979,K21.9,Gastro-esophageal reflux disease without esophagitis
+P000488,100980,E78.5,"Hyperlipidemia, unspecified"
+P000488,100981,J18.9,"Pneumonia, unspecified organism"
+P000489,100982,E11.9,Type 2 diabetes mellitus without complications
+P000490,100983,J18.9,"Pneumonia, unspecified organism"
+P000491,100984,E11.9,Type 2 diabetes mellitus without complications
+P000492,100985,J18.9,"Pneumonia, unspecified organism"
+P000493,100986,I10,Essential (primary) hypertension
+P000494,100987,M54.5,Low back pain
+P000494,100988,K21.9,Gastro-esophageal reflux disease without esophagitis
+P000495,100989,R07.9,"Chest pain, unspecified"
+P000495,100990,M54.5,Low back pain
+P000495,100991,E78.5,"Hyperlipidemia, unspecified"
+P000496,100992,F41.9,"Anxiety disorder, unspecified"
+P000496,100993,E11.9,Type 2 diabetes mellitus without complications
+P000496,100994,J18.9,"Pneumonia, unspecified organism"
+P000497,100995,M54.5,Low back pain
+P000497,100996,F41.9,"Anxiety disorder, unspecified"
+P000498,100997,R07.9,"Chest pain, unspecified"
+P000498,100998,I10,Essential (primary) hypertension
+P000498,100999,F41.9,"Anxiety disorder, unspecified"
+P000499,101000,F41.9,"Anxiety disorder, unspecified"
+P000499,101001,I10,Essential (primary) hypertension
+P000500,101002,J45.909,"Unspecified asthma, uncomplicated"

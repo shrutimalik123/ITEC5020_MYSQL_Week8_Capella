@@ -1,0 +1,501 @@
+PatientID,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+P000001,Female,1933-05-28,American Indian or Alaska Native,Single,English,14.98
+P000002,Male,2004-03-23,White,Married,English,11.17
+P000003,Male,1998-10-12,Black or African American,Married,Spanish,15.89
+P000004,Female,1987-02-05,White,Married,Mandarin,21.14
+P000005,Male,1951-09-24,Asian,Single,English,10.6
+P000006,Female,1975-10-24,White,Single,English,10.6
+P000007,Male,1966-01-01,Other,Married,English,21.48
+P000008,Female,1981-07-09,White,Single,English,16.6
+P000009,Female,1979-03-21,Black or African American,Married,English,9.18
+P000010,Male,1969-05-21,Unknown,Divorced,Hindi,15.26
+P000011,Male,1991-09-17,Black or African American,Single,English,9.22
+P000012,Male,1966-05-03,Asian,Married,English,9.21
+P000013,Female,2002-09-12,Asian,Single,English,13.45
+P000014,Other,2005-10-20,White,Single,Spanish,0.52
+P000015,Male,1934-05-15,Other,Married,English,1.65
+P000016,Female,2007-03-12,Unknown,Single,Spanish,8.63
+P000017,Male,1992-06-13,White,Single,Spanish,5.92
+P000018,Female,2009-07-24,White,Married,English,13.89
+P000019,Unknown,1948-10-29,White,Single,English,6.55
+P000020,Male,1951-10-10,Other,Married,English,3.53
+P000021,Male,1993-09-13,White,Unknown,Hindi,20.79
+P000022,Male,1945-08-04,Asian,Married,English,10.65
+P000023,Female,1945-03-08,White,Single,English,12.41
+P000024,Female,1965-11-06,Unknown,Married,English,3.45
+P000025,Male,1970-08-14,Other,Married,English,8.73
+P000026,Male,1951-12-27,White,Married,English,12.67
+P000027,Male,1974-02-12,White,Single,English,5.09
+P000028,Other,1971-11-08,White,Single,English,14.25
+P000029,Male,1996-02-22,Other,Unknown,English,8.4
+P000030,Male,1994-09-08,Unknown,Single,English,10.25
+P000031,Female,1958-10-29,Unknown,Married,Spanish,8.39
+P000032,Female,1984-04-21,Unknown,Married,English,23.11
+P000033,Female,1946-06-21,White,Single,English,11.92
+P000034,Female,2010-02-01,White,Single,English,5.65
+P000035,Male,1934-04-11,Other,Single,English,16.94
+P000036,Female,1959-02-27,White,Married,Hindi,4.67
+P000037,Female,1963-01-27,Other,Divorced,English,13.25
+P000038,Male,1988-08-31,White,Married,Hindi,0.24
+P000039,Male,1943-05-25,White,Married,Mandarin,4.03
+P000040,Male,1956-01-28,White,Married,English,13.18
+P000041,Male,1963-12-31,Unknown,Single,Mandarin,16.43
+P000042,Female,1943-04-30,White,Unknown,Mandarin,13.03
+P000043,Female,1962-03-04,White,Married,English,11.31
+P000044,Male,1937-12-24,White,Single,English,10.19
+P000045,Female,1991-12-05,White,Married,Spanish,3.13
+P000046,Female,1996-03-27,White,Single,Vietnamese,7.68
+P000047,Female,2003-10-17,White,Single,English,9.24
+P000048,Male,2002-04-15,White,Unknown,English,18.34
+P000049,Male,2010-12-26,White,Divorced,English,14.06
+P000050,Female,2007-07-14,White,Married,English,1.42
+P000051,Male,2009-06-09,Black or African American,Single,English,13.94
+P000052,Female,1972-10-05,White,Single,Spanish,9.69
+P000053,Male,1973-01-12,Unknown,Separated,English,7.94
+P000054,Female,2006-08-16,Unknown,Single,English,15.67
+P000055,Male,1977-07-02,Unknown,Divorced,English,18.19
+P000056,Male,2003-12-07,Asian,Married,Russian,17.59
+P000057,Female,1931-01-24,Black or African American,Married,French,6.96
+P000058,Male,1948-04-11,White,Widowed,Spanish,10.14
+P000059,Male,1968-05-07,Black or African American,Married,English,13.99
+P000060,Female,1965-12-05,White,Single,Arabic,17.85
+P000061,Male,1987-08-26,Other,Single,English,9.12
+P000062,Male,1965-08-26,White,Married,Spanish,10.89
+P000063,Female,1945-03-24,White,Widowed,Arabic,5.36
+P000064,Female,1980-04-01,Black or African American,Single,English,4.82
+P000065,Male,1935-06-07,Unknown,Single,English,16.88
+P000066,Male,2006-03-14,Unknown,Married,English,20.14
+P000067,Male,1962-03-22,Unknown,Unknown,Mandarin,11.57
+P000068,Female,1933-05-17,White,Widowed,Spanish,18.02
+P000069,Male,1963-10-11,White,Married,English,14.17
+P000070,Female,1994-01-23,White,Divorced,English,8.13
+P000071,Male,1960-12-22,White,Married,English,14.17
+P000072,Male,1939-06-13,Unknown,Single,English,21.23
+P000073,Male,2002-12-24,White,Single,Hindi,11.79
+P000074,Male,2009-01-07,Unknown,Single,English,21.39
+P000075,Male,1972-09-09,White,Unknown,English,0.0
+P000076,Female,1955-11-14,White,Married,English,16.93
+P000077,Female,2003-04-14,Asian,Separated,Spanish,12.52
+P000078,Male,1988-09-12,White,Married,English,10.21
+P000079,Male,1946-12-18,Asian,Single,English,12.55
+P000080,Male,1984-10-07,Asian,Married,English,0.07
+P000081,Female,1981-08-08,Asian,Widowed,English,10.68
+P000082,Male,2004-07-29,Other,Single,English,14.14
+P000083,Female,1973-11-10,White,Married,English,20.87
+P000084,Male,1953-02-04,Black or African American,Single,Spanish,8.89
+P000085,Female,1942-09-17,Other,Married,Spanish,7.15
+P000086,Male,1957-02-06,White,Single,Russian,8.99
+P000087,Female,1939-11-30,White,Widowed,English,17.49
+P000088,Female,1982-04-05,White,Single,Spanish,13.97
+P000089,Male,1944-07-04,Other,Single,Mandarin,8.82
+P000090,Female,1993-03-23,White,Single,Hindi,15.08
+P000091,Male,1993-03-28,Black or African American,Unknown,English,12.58
+P000092,Female,1990-03-27,Black or African American,Married,English,17.81
+P000093,Female,2004-07-25,White,Single,Hindi,7.79
+P000094,Male,1963-08-26,Other,Single,Spanish,10.03
+P000095,Male,1962-07-24,White,Single,English,9.65
+P000096,Male,1973-07-06,Unknown,Single,English,3.22
+P000097,Male,1950-10-18,Asian,Single,English,13.78
+P000098,Female,1986-08-03,White,Divorced,English,13.57
+P000099,Female,1932-08-28,Other,Married,English,12.03
+P000100,Male,1977-11-16,White,Single,Arabic,10.59
+P000101,Female,2003-04-03,American Indian or Alaska Native,Married,English,3.51
+P000102,Male,1959-11-12,White,Married,English,9.48
+P000103,Female,1985-01-10,Asian,Divorced,Arabic,9.94
+P000104,Other,2002-09-11,White,Single,English,7.19
+P000105,Male,1988-05-02,White,Married,English,11.03
+P000106,Male,1958-10-22,White,Single,Hindi,14.42
+P000107,Male,1987-05-18,White,Single,English,23.32
+P000108,Female,1977-08-18,White,Single,Tagalog,13.05
+P000109,Male,1934-03-23,Unknown,Single,English,13.55
+P000110,Male,1947-03-07,White,Single,Tagalog,11.55
+P000111,Male,1964-11-15,Other,Single,English,0.49
+P000112,Female,1945-08-03,Other,Single,English,11.84
+P000113,Female,1972-06-16,Black or African American,Widowed,English,12.36
+P000114,Female,1956-12-29,White,Married,English,26.78
+P000115,Male,1971-01-17,Other,Married,English,10.85
+P000116,Other,1935-08-04,White,Married,English,13.81
+P000117,Female,1976-06-10,White,Married,English,11.79
+P000118,Male,1979-04-18,Black or African American,Divorced,Spanish,4.99
+P000119,Male,2001-01-04,Unknown,Single,Mandarin,18.86
+P000120,Female,1995-10-21,White,Divorced,English,16.51
+P000121,Male,1963-05-31,Other,Single,Hindi,16.75
+P000122,Male,1993-03-31,Black or African American,Married,English,6.54
+P000123,Female,1974-03-27,White,Single,Spanish,20.42
+P000124,Male,1967-08-08,Black or African American,Married,English,3.59
+P000125,Male,1985-04-25,White,Married,Spanish,15.52
+P000126,Female,1996-10-19,White,Single,English,25.14
+P000127,Male,1963-02-11,White,Married,English,6.06
+P000128,Female,1987-11-29,Unknown,Married,English,8.6
+P000129,Male,1971-09-25,White,Single,English,12.6
+P000130,Male,2002-12-06,Unknown,Married,English,8.98
+P000131,Female,1967-08-19,Asian,Unknown,English,2.7
+P000132,Male,1943-09-07,Other,Single,English,12.41
+P000133,Male,2002-09-11,White,Single,English,5.63
+P000134,Male,1947-03-10,Black or African American,Married,English,14.84
+P000135,Male,1968-09-12,White,Married,English,6.48
+P000136,Male,1995-01-08,White,Single,English,21.3
+P000137,Female,1937-04-18,White,Divorced,Tagalog,7.3
+P000138,Male,1963-10-12,White,Married,English,10.07
+P000139,Female,1960-09-18,Other,Single,Arabic,16.88
+P000140,Male,2010-02-05,Unknown,Single,English,4.61
+P000141,Female,1943-07-04,Unknown,Single,English,13.36
+P000142,Female,1951-05-18,White,Married,English,19.84
+P000143,Male,2010-10-26,White,Single,English,2.36
+P000144,Male,1991-10-18,White,Single,English,13.11
+P000145,Female,2010-04-09,Black or African American,Separated,English,13.56
+P000146,Female,1950-04-12,Unknown,Divorced,English,16.69
+P000147,Male,1971-11-13,Black or African American,Divorced,French,4.58
+P000148,Male,1993-10-16,Asian,Married,Tagalog,4.08
+P000149,Female,1997-03-16,White,Married,Hindi,15.13
+P000150,Female,1964-01-28,White,Single,Spanish,13.78
+P000151,Female,2009-11-28,Unknown,Unknown,Spanish,13.5
+P000152,Male,1935-06-23,Other,Single,English,14.08
+P000153,Male,1967-11-10,White,Married,English,7.92
+P000154,Female,1942-06-02,White,Married,English,13.39
+P000155,Male,1951-11-21,White,Married,English,13.76
+P000156,Female,2004-11-13,White,Single,English,7.71
+P000157,Male,1985-01-03,Unknown,Divorced,English,23.19
+P000158,Female,1992-11-15,White,Single,English,14.84
+P000159,Female,1990-02-28,Native Hawaiian or Other Pacific Islander,Single,English,4.85
+P000160,Female,1989-08-17,Unknown,Married,English,15.94
+P000161,Female,1962-07-27,Asian,Single,English,6.15
+P000162,Male,1960-07-31,Unknown,Widowed,English,16.72
+P000163,Male,1950-12-15,White,Married,English,18.95
+P000164,Male,1995-09-02,Unknown,Single,English,7.08
+P000165,Male,1999-03-04,American Indian or Alaska Native,Single,English,17.78
+P000166,Female,1986-06-22,White,Married,English,14.48
+P000167,Male,1970-08-20,Other,Married,Spanish,16.93
+P000168,Female,1990-10-10,White,Single,English,23.38
+P000169,Female,1991-12-22,Unknown,Divorced,Russian,10.53
+P000170,Male,1982-02-14,White,Married,English,7.48
+P000171,Female,1981-11-20,White,Married,Mandarin,6.66
+P000172,Other,1997-05-31,Unknown,Single,Vietnamese,7.11
+P000173,Male,1943-08-30,Unknown,Married,English,11.54
+P000174,Male,1949-08-15,White,Married,English,14.05
+P000175,Male,1966-01-26,White,Married,English,13.66
+P000176,Female,2002-08-17,White,Single,Spanish,16.96
+P000177,Female,2003-08-20,White,Single,English,12.08
+P000178,Female,1960-12-17,American Indian or Alaska Native,Married,English,20.72
+P000179,Female,1943-09-06,White,Married,Arabic,10.41
+P000180,Male,1937-08-21,White,Single,English,28.32
+P000181,Female,2007-01-09,Asian,Single,English,15.75
+P000182,Female,1982-01-24,Black or African American,Single,Arabic,6.86
+P000183,Male,1992-10-05,Black or African American,Married,Spanish,5.57
+P000184,Female,1993-04-27,Unknown,Married,English,14.89
+P000185,Male,1977-01-12,Unknown,Single,Vietnamese,10.66
+P000186,Female,1992-03-05,Other,Single,English,16.28
+P000187,Male,1962-04-14,White,Single,English,14.84
+P000188,Female,1932-12-26,Unknown,Married,English,11.56
+P000189,Female,1936-09-04,Unknown,Married,Mandarin,6.92
+P000190,Female,1961-04-27,Black or African American,Single,English,2.91
+P000191,Female,1948-08-13,Black or African American,Widowed,English,9.32
+P000192,Male,1989-12-30,White,Single,English,17.14
+P000193,Female,1974-06-20,American Indian or Alaska Native,Single,English,13.28
+P000194,Female,1979-10-17,White,Widowed,Mandarin,4.53
+P000195,Male,1995-07-31,Unknown,Single,Hindi,13.04
+P000196,Female,1993-09-27,Unknown,Single,Vietnamese,14.31
+P000197,Female,1984-02-02,Unknown,Divorced,English,6.7
+P000198,Female,1931-11-23,White,Single,English,12.92
+P000199,Female,1965-09-06,Black or African American,Divorced,Tagalog,12.35
+P000200,Male,1961-10-28,White,Married,Tagalog,5.14
+P000201,Male,1960-02-17,Black or African American,Married,English,14.15
+P000202,Female,1985-07-27,White,Single,English,15.36
+P000203,Unknown,1945-10-21,White,Widowed,English,18.5
+P000204,Male,2003-07-10,White,Married,English,18.32
+P000205,Male,1943-06-24,Other,Married,French,3.73
+P000206,Male,1980-06-06,White,Married,English,6.37
+P000207,Male,1979-12-30,White,Unknown,English,15.09
+P000208,Male,1955-11-01,Unknown,Separated,Mandarin,15.08
+P000209,Male,1958-11-13,Black or African American,Married,English,15.09
+P000210,Female,1963-02-24,Unknown,Married,English,35.12
+P000211,Female,2005-06-05,White,Single,Hindi,15.43
+P000212,Male,1950-01-30,Other,Married,English,18.81
+P000213,Other,1947-09-10,White,Married,English,17.72
+P000214,Female,1947-12-09,White,Married,English,15.91
+P000215,Male,1953-09-18,White,Single,English,10.11
+P000216,Male,1938-08-26,White,Married,English,16.55
+P000217,Male,1998-07-28,White,Married,Spanish,7.36
+P000218,Female,2000-12-20,White,Married,English,10.58
+P000219,Unknown,1984-08-29,White,Single,Spanish,9.09
+P000220,Male,1940-12-30,White,Single,English,12.49
+P000221,Female,2009-09-01,White,Single,Other,25.89
+P000222,Female,1991-10-02,White,Married,Spanish,0.8
+P000223,Male,2005-01-14,Asian,Single,English,16.12
+P000224,Male,1976-02-17,Other,Single,Spanish,2.32
+P000225,Male,1972-07-14,Black or African American,Single,English,9.17
+P000226,Female,1939-02-20,White,Single,English,18.53
+P000227,Female,1980-09-19,Other,Married,English,12.39
+P000228,Female,1974-11-12,Asian,Married,Hindi,5.53
+P000229,Female,1987-07-25,Unknown,Married,Vietnamese,7.71
+P000230,Female,1977-11-10,White,Married,English,16.08
+P000231,Male,1944-09-23,White,Married,English,7.62
+P000232,Male,1960-10-12,Other,Divorced,Vietnamese,13.3
+P000233,Female,2005-10-09,White,Widowed,Mandarin,12.27
+P000234,Male,1954-07-22,White,Married,French,8.09
+P000235,Male,1954-09-09,Unknown,Married,English,24.86
+P000236,Male,1934-03-04,White,Married,English,15.8
+P000237,Male,1951-06-04,White,Married,Spanish,0.0
+P000238,Female,1941-07-25,Unknown,Single,Spanish,13.12
+P000239,Male,1941-02-07,White,Married,English,8.03
+P000240,Male,1967-03-07,White,Married,English,17.11
+P000241,Male,2010-09-22,White,Married,English,7.24
+P000242,Male,1937-06-16,White,Single,English,11.31
+P000243,Male,1964-10-10,White,Single,English,15.03
+P000244,Male,1947-08-01,White,Married,English,17.19
+P000245,Female,1978-03-15,White,Divorced,English,4.8
+P000246,Male,1940-08-06,Unknown,Married,English,9.99
+P000247,Female,1986-11-06,White,Married,Vietnamese,9.15
+P000248,Male,1992-08-14,Other,Widowed,English,8.08
+P000249,Female,1963-02-12,White,Married,English,22.59
+P000250,Female,1976-03-17,White,Married,English,14.43
+P000251,Female,2002-03-20,White,Widowed,English,4.43
+P000252,Female,1950-02-06,White,Single,English,17.51
+P000253,Female,1940-04-03,White,Married,English,24.73
+P000254,Female,2008-11-12,White,Widowed,English,18.19
+P000255,Female,1973-12-27,Unknown,Married,English,2.88
+P000256,Male,1990-03-09,Black or African American,Married,English,9.09
+P000257,Male,1940-02-06,White,Married,English,19.6
+P000258,Female,1940-06-11,Black or African American,Unknown,English,7.75
+P000259,Female,1982-04-30,White,Married,Spanish,14.66
+P000260,Female,1991-03-18,Unknown,Married,English,16.65
+P000261,Female,1998-03-28,White,Single,English,6.44
+P000262,Female,1976-09-28,Unknown,Single,English,11.64
+P000263,Male,1989-07-31,Unknown,Married,English,0.0
+P000264,Male,1968-07-02,White,Married,Spanish,5.85
+P000265,Male,1975-07-19,White,Single,Spanish,10.48
+P000266,Male,1950-06-20,White,Married,English,4.51
+P000267,Male,1983-05-07,White,Married,English,21.79
+P000268,Female,1974-09-15,Other,Married,Mandarin,3.42
+P000269,Female,2001-08-23,White,Married,English,9.36
+P000270,Male,1972-01-14,White,Single,Tagalog,12.78
+P000271,Male,1960-10-31,Unknown,Single,English,20.65
+P000272,Female,1999-02-05,Other,Divorced,Hindi,3.38
+P000273,Male,1975-11-01,Unknown,Married,English,18.98
+P000274,Male,1954-08-12,Other,Married,Mandarin,12.06
+P000275,Male,1989-07-26,White,Single,Spanish,6.11
+P000276,Female,1968-10-11,Native Hawaiian or Other Pacific Islander,Married,English,14.77
+P000277,Male,1993-10-31,Unknown,Single,Spanish,13.19
+P000278,Female,1989-12-19,White,Single,English,8.4
+P000279,Female,1952-01-21,Other,Divorced,English,12.42
+P000280,Male,1995-05-30,Unknown,Married,English,9.69
+P000281,Female,1946-12-20,White,Married,English,12.68
+P000282,Female,1950-01-20,Other,Single,Arabic,15.97
+P000283,Female,1977-07-30,Unknown,Married,English,21.52
+P000284,Male,1982-07-23,Unknown,Single,English,4.57
+P000285,Female,1975-08-20,Other,Single,English,24.8
+P000286,Female,1948-11-21,Native Hawaiian or Other Pacific Islander,Married,English,0.29
+P000287,Female,1932-08-02,White,Divorced,English,11.09
+P000288,Female,2001-10-30,White,Married,English,15.53
+P000289,Male,1962-06-14,White,Married,English,13.69
+P000290,Male,1998-01-10,Black or African American,Single,English,8.26
+P000291,Male,1949-07-17,White,Single,English,10.75
+P000292,Female,1955-06-30,Black or African American,Single,Vietnamese,9.04
+P000293,Male,2001-08-06,White,Married,English,8.46
+P000294,Male,1993-12-26,White,Single,English,17.1
+P000295,Female,1978-08-08,Other,Single,Spanish,14.14
+P000296,Female,2009-03-13,American Indian or Alaska Native,Single,English,7.84
+P000297,Female,1953-10-30,Other,Married,Russian,17.4
+P000298,Male,1954-10-23,Other,Single,Spanish,13.84
+P000299,Male,1969-12-09,White,Married,Hindi,16.88
+P000300,Male,1972-03-14,White,Unknown,English,15.78
+P000301,Male,1956-01-04,White,Divorced,English,7.03
+P000302,Female,1967-03-09,White,Single,Hindi,8.64
+P000303,Female,1982-08-16,White,Single,Spanish,16.48
+P000304,Male,2000-09-03,White,Single,English,15.66
+P000305,Male,1954-07-24,White,Single,English,11.87
+P000306,Female,1971-09-18,White,Married,English,12.7
+P000307,Male,1990-11-08,White,Divorced,English,19.67
+P000308,Unknown,1967-05-15,Black or African American,Married,English,8.45
+P000309,Female,1985-04-14,White,Divorced,Spanish,15.28
+P000310,Female,1949-06-07,Other,Married,English,10.79
+P000311,Male,1962-02-13,Other,Single,English,10.69
+P000312,Female,1950-11-19,Asian,Separated,English,18.59
+P000313,Female,2008-02-10,White,Single,English,16.95
+P000314,Male,1945-06-10,White,Single,English,16.88
+P000315,Female,1946-01-10,White,Single,English,19.83
+P000316,Unknown,1968-11-13,Asian,Unknown,English,12.13
+P000317,Male,1940-01-30,White,Widowed,English,16.09
+P000318,Male,1973-06-30,Black or African American,Married,English,10.14
+P000319,Male,1970-10-28,Other,Married,French,13.94
+P000320,Female,1979-03-14,White,Single,English,11.22
+P000321,Male,1997-03-27,White,Married,English,12.58
+P000322,Female,2005-01-29,White,Widowed,English,15.57
+P000323,Male,1995-02-23,White,Married,Mandarin,7.09
+P000324,Male,1973-02-23,Black or African American,Married,Spanish,24.55
+P000325,Male,2005-01-12,Black or African American,Single,Vietnamese,5.96
+P000326,Male,1937-07-17,Other,Married,English,4.71
+P000327,Male,1960-09-08,White,Separated,Arabic,18.95
+P000328,Female,1964-02-09,White,Unknown,English,16.75
+P000329,Female,2002-08-10,White,Married,English,15.74
+P000330,Female,1953-04-20,Black or African American,Married,English,15.77
+P000331,Female,2006-09-16,White,Divorced,English,11.93
+P000332,Female,2008-07-01,White,Single,English,6.62
+P000333,Female,1934-02-14,White,Married,English,12.45
+P000334,Female,1995-09-24,White,Divorced,English,7.94
+P000335,Male,1938-02-26,White,Married,English,17.85
+P000336,Male,1949-07-21,White,Married,Spanish,11.12
+P000337,Female,1984-04-07,White,Single,English,7.05
+P000338,Male,1993-06-27,White,Married,English,10.07
+P000339,Male,1982-04-14,Unknown,Married,Vietnamese,14.48
+P000340,Female,1974-07-25,Unknown,Married,English,8.62
+P000341,Male,2000-01-21,White,Divorced,English,7.07
+P000342,Male,1983-07-10,White,Unknown,English,13.46
+P000343,Male,1936-11-17,White,Married,Hindi,13.47
+P000344,Female,1968-11-21,White,Divorced,English,8.96
+P000345,Female,1979-10-13,Other,Single,English,9.17
+P000346,Female,1956-06-29,White,Single,English,13.39
+P000347,Male,2004-11-01,White,Unknown,Spanish,3.31
+P000348,Male,1943-02-28,White,Married,English,3.56
+P000349,Female,1949-08-20,White,Married,English,7.69
+P000350,Male,1948-08-26,Asian,Divorced,English,10.72
+P000351,Male,2000-02-28,White,Separated,English,13.87
+P000352,Male,1970-09-23,Black or African American,Married,English,20.85
+P000353,Male,2006-08-13,White,Divorced,English,17.15
+P000354,Female,1986-09-10,Black or African American,Married,Spanish,11.04
+P000355,Female,1933-08-17,Black or African American,Single,Spanish,11.89
+P000356,Female,2008-09-24,Black or African American,Married,English,5.98
+P000357,Male,1981-09-29,White,Married,English,11.89
+P000358,Female,1944-12-15,White,Married,English,10.27
+P000359,Male,1957-10-01,White,Married,French,13.94
+P000360,Female,1938-06-24,Asian,Married,English,7.04
+P000361,Unknown,1995-02-08,White,Single,English,15.12
+P000362,Female,1976-08-04,White,Married,Hindi,21.2
+P000363,Female,1965-12-24,Black or African American,Single,English,11.35
+P000364,Female,1960-08-09,Unknown,Unknown,Spanish,14.41
+P000365,Female,1996-07-21,White,Single,French,16.14
+P000366,Female,1967-03-21,White,Married,English,9.59
+P000367,Female,1983-09-12,Other,Unknown,Mandarin,13.34
+P000368,Male,1969-02-23,Unknown,Single,French,12.08
+P000369,Female,1995-03-16,White,Divorced,English,12.59
+P000370,Female,1966-12-20,White,Married,English,7.36
+P000371,Male,2002-04-11,White,Single,English,12.15
+P000372,Male,1994-04-18,White,Married,English,14.99
+P000373,Female,1951-07-01,White,Separated,Hindi,20.71
+P000374,Male,1957-02-23,Native Hawaiian or Other Pacific Islander,Single,English,17.76
+P000375,Male,1942-03-06,Black or African American,Single,Spanish,24.92
+P000376,Female,1935-01-29,Unknown,Single,Hindi,7.4
+P000377,Male,1934-12-12,Unknown,Single,English,17.23
+P000378,Female,1969-05-25,Unknown,Single,English,13.1
+P000379,Male,1975-08-08,White,Unknown,English,25.14
+P000380,Female,1948-04-07,Other,Married,English,7.15
+P000381,Male,1952-02-12,American Indian or Alaska Native,Married,Spanish,6.96
+P000382,Male,1975-11-18,Other,Married,Spanish,8.4
+P000383,Male,1985-03-10,Other,Married,English,0.0
+P000384,Female,1955-02-24,Unknown,Married,French,8.85
+P000385,Male,1982-03-16,White,Married,Tagalog,7.45
+P000386,Male,2007-12-20,White,Married,Spanish,12.9
+P000387,Male,1946-02-02,White,Single,Spanish,14.05
+P000388,Female,1972-04-28,Asian,Married,Tagalog,23.26
+P000389,Male,1960-01-22,White,Single,English,17.7
+P000390,Female,1980-11-06,White,Married,English,8.54
+P000391,Female,1959-09-23,Other,Married,English,6.61
+P000392,Female,2001-07-10,White,Married,English,14.95
+P000393,Female,1938-05-29,Other,Widowed,English,4.08
+P000394,Female,1952-05-24,White,Married,English,22.99
+P000395,Male,2009-05-14,White,Widowed,English,19.08
+P000396,Male,1947-12-16,White,Married,English,9.18
+P000397,Male,1971-12-11,Asian,Single,Mandarin,1.72
+P000398,Female,2008-09-16,White,Married,Spanish,20.12
+P000399,Female,1938-03-15,Unknown,Single,French,11.31
+P000400,Male,1985-08-24,White,Single,English,19.43
+P000401,Female,1987-03-19,White,Widowed,English,2.43
+P000402,Female,1981-05-18,White,Married,Spanish,8.4
+P000403,Female,1977-05-01,White,Unknown,English,12.03
+P000404,Male,1960-04-22,Other,Married,Vietnamese,12.28
+P000405,Male,2004-02-06,White,Single,English,9.3
+P000406,Male,1951-02-11,White,Separated,Spanish,15.74
+P000407,Male,1987-01-22,Black or African American,Separated,Hindi,5.59
+P000408,Male,1939-02-28,White,Single,English,11.15
+P000409,Female,1936-08-16,White,Single,English,12.72
+P000410,Female,1937-09-06,White,Unknown,English,15.09
+P000411,Female,2008-05-29,White,Married,Spanish,16.27
+P000412,Male,1971-01-26,Unknown,Unknown,English,5.25
+P000413,Male,1967-06-13,White,Separated,Hindi,2.8
+P000414,Female,1988-02-22,Black or African American,Single,English,19.67
+P000415,Female,1981-11-16,Other,Single,English,13.99
+P000416,Male,1981-03-27,White,Married,English,7.51
+P000417,Male,1949-08-24,Other,Widowed,English,21.31
+P000418,Female,2005-11-05,White,Single,English,12.69
+P000419,Male,1940-10-05,Unknown,Divorced,English,19.08
+P000420,Female,1955-12-04,White,Single,English,12.41
+P000421,Male,1939-11-28,White,Married,Spanish,24.36
+P000422,Female,1995-03-31,White,Widowed,English,22.53
+P000423,Female,1958-10-30,Unknown,Unknown,English,10.51
+P000424,Unknown,1995-03-08,Unknown,Married,Spanish,17.83
+P000425,Male,1962-07-29,Black or African American,Married,English,15.87
+P000426,Female,1978-11-23,White,Single,Hindi,20.21
+P000427,Male,1993-11-24,Other,Single,English,6.21
+P000428,Male,1936-03-22,Black or African American,Single,English,16.12
+P000429,Male,2009-06-27,Black or African American,Married,English,18.35
+P000430,Male,1981-09-11,Black or African American,Single,English,1.45
+P000431,Female,1975-12-11,White,Divorced,Vietnamese,4.9
+P000432,Female,1996-10-08,White,Married,English,0.0
+P000433,Male,2004-05-20,White,Widowed,English,10.38
+P000434,Female,1937-12-29,White,Divorced,English,16.31
+P000435,Female,1936-08-08,Other,Married,Hindi,21.01
+P000436,Male,1950-07-22,White,Married,English,12.44
+P000437,Female,1995-10-07,Black or African American,Single,English,21.77
+P000438,Male,1932-04-11,White,Single,Vietnamese,3.72
+P000439,Male,1988-08-07,Other,Widowed,English,1.78
+P000440,Male,1950-04-07,White,Married,English,11.67
+P000441,Male,1984-01-07,White,Unknown,English,14.3
+P000442,Male,1960-09-27,White,Divorced,English,11.8
+P000443,Unknown,1934-04-25,White,Single,English,0.0
+P000444,Male,1931-04-15,Asian,Single,Hindi,11.47
+P000445,Female,1975-02-01,Black or African American,Divorced,English,4.17
+P000446,Female,1935-10-17,White,Widowed,Spanish,16.02
+P000447,Female,1966-11-24,White,Single,French,14.2
+P000448,Female,2006-09-11,Black or African American,Single,Hindi,6.36
+P000449,Male,1958-03-12,Black or African American,Married,Spanish,8.92
+P000450,Male,1940-06-21,White,Married,English,5.64
+P000451,Female,2003-07-28,White,Married,English,11.62
+P000452,Other,1940-09-03,White,Unknown,English,17.73
+P000453,Male,1940-05-06,White,Married,Tagalog,6.09
+P000454,Male,1974-06-03,White,Single,Other,15.02
+P000455,Female,1978-06-05,Black or African American,Single,English,8.82
+P000456,Female,1981-09-23,White,Married,Spanish,7.24
+P000457,Female,1941-03-02,White,Single,Spanish,11.36
+P000458,Male,1983-01-11,White,Single,English,5.79
+P000459,Male,1978-12-26,Other,Single,English,8.68
+P000460,Male,2005-10-21,Black or African American,Married,English,4.81
+P000461,Male,1942-09-01,Black or African American,Married,Hindi,23.79
+P000462,Male,1986-04-27,White,Single,Arabic,12.21
+P000463,Female,1963-01-14,Black or African American,Single,English,7.8
+P000464,Male,1970-12-26,White,Single,English,13.28
+P000465,Male,1970-10-18,White,Single,English,11.33
+P000466,Male,1997-06-24,Black or African American,Single,English,10.67
+P000467,Male,1983-11-08,White,Married,Mandarin,15.69
+P000468,Male,1975-07-23,White,Divorced,Spanish,16.55
+P000469,Female,1970-11-21,White,Separated,English,8.82
+P000470,Male,1984-03-14,Unknown,Single,Spanish,8.55
+P000471,Female,2008-05-18,Other,Single,English,10.35
+P000472,Female,1979-09-06,White,Married,English,0.0
+P000473,Female,2004-11-13,White,Married,Tagalog,2.91
+P000474,Male,1969-08-26,Other,Single,Hindi,20.2
+P000475,Female,1997-12-15,White,Single,English,21.87
+P000476,Male,1987-08-03,Other,Single,Other,10.51
+P000477,Male,1984-07-20,White,Widowed,Hindi,15.46
+P000478,Male,1935-01-02,Other,Single,Arabic,13.87
+P000479,Female,1941-07-26,White,Single,Spanish,30.47
+P000480,Male,1936-01-12,Black or African American,Married,English,18.72
+P000481,Female,1975-02-17,Unknown,Married,English,11.23
+P000482,Male,1999-07-03,American Indian or Alaska Native,Married,Spanish,6.27
+P000483,Male,1980-12-01,White,Married,English,2.36
+P000484,Female,1976-12-13,Unknown,Married,English,13.22
+P000485,Female,1941-09-07,White,Separated,English,7.46
+P000486,Male,1991-12-21,Other,Married,English,3.47
+P000487,Male,1991-07-31,White,Single,Mandarin,8.12
+P000488,Male,1976-09-10,Black or African American,Married,English,5.51
+P000489,Other,1963-03-13,White,Married,English,22.12
+P000490,Male,1992-11-19,White,Married,English,17.29
+P000491,Female,1988-10-24,White,Married,Hindi,11.95
+P000492,Male,1988-06-18,White,Married,English,20.88
+P000493,Female,1938-07-08,Black or African American,Married,English,12.46
+P000494,Male,1956-10-27,White,Single,Hindi,6.83
+P000495,Female,1972-08-27,Black or African American,Married,English,21.14
+P000496,Male,1992-04-25,Black or African American,Divorced,Spanish,15.23
+P000497,Male,2010-04-28,White,Single,English,5.78
+P000498,Male,1954-11-30,White,Single,English,10.86
+P000499,Female,2008-03-25,White,Single,English,6.75
+P000500,Female,1953-07-30,Black or African American,Married,English,3.7
